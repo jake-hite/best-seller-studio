@@ -1,0 +1,138 @@
+project:
+  title: "The Open Hand"
+  slug: "the-open-hand"
+  source_bible: "jake-hite/novel-bible"
+  pipeline: "book-genesis-codex"
+  language: "en"
+  genre: "secondary-world fantasy"
+  target_length_words: 100000
+  target_chapter_count: 20
+  narrative_mode: "third-limited, single POV (Wren Wickern), past tense"
+
+pipeline_status:
+  phase_0_intake:
+    status: "complete"
+    outputs:
+      - "ASSUMPTIONS.md"
+      - "artifacts/00-brief.md"
+      - "artifacts/01-market-map.md"
+      - "artifacts/02-story-engine.md"
+  phase_1_foundation:
+    status: "complete"
+    outputs:
+      - "artifacts/03-characters.md"
+      - "artifacts/04-theme.md"
+      - "artifacts/06-emotional-curve.md"
+  phase_2_architecture:
+    status: "complete"
+    outputs:
+      - "artifacts/05-outline.md"
+      - "artifacts/07-opening-strategy.md"
+  phase_3_drafting:
+    status: "in_progress"
+    outputs:
+      - "manuscript/chapters"
+    note: >
+      Full 20-chapter outline exists in artifacts/05-outline.md. Only
+      Chapters 1-3 are drafted prose in this pass (see chapters list below).
+      Chapters 4-20 are outlined but NOT yet drafted. This is a deliberate
+      scope decision recorded in ASSUMPTIONS.md, not an oversight.
+  phase_4_adversarial_audit:
+    status: "not_started"
+    note: "Cannot run honestly until full manuscript exists. Skipped, not failed."
+  phase_5_final_score:
+    status: "not_started"
+    note: "Blocked on Phase 4 per pipeline rule: never score before audit."
+  phase_6_editorial_package:
+    status: "not_started"
+
+chapters:
+  - id: 1
+    title: "A Perfectly Reasonable Amount of Feeling"
+    status: "drafted"
+    word_count_approx: 2130
+    structural_beat: "Hook"
+  - id: 2
+    title: "The Lowmarket Fever"
+    status: "drafted"
+    word_count_approx: 1940
+    structural_beat: "Hook -> rising"
+  - id: 3
+    title: "The Name Nobody Says at Council"
+    status: "drafted"
+    word_count_approx: 2060
+    structural_beat: "Plot Turn 1 (approach)"
+  - id: 4
+    title: "What the Guild Won't Sign For"
+    status: "outline_only"
+    structural_beat: "Plot Turn 1"
+  - id: 5
+    title: "Wickern & Daughters"
+    status: "outline_only"
+    structural_beat: "rising"
+  - id: 6
+    title: "The Locked Cabinet"
+    status: "outline_only"
+    structural_beat: "rising"
+  - id: 7
+    title: "A Theory With No Guild Behind It"
+    status: "outline_only"
+    structural_beat: "rising"
+  - id: 8
+    title: "The House on the Quiet Ward"
+    status: "outline_only"
+    structural_beat: "approach to Pinch 1"
+  - id: 9
+    title: "What It Costs to Hold Open a Person"
+    status: "outline_only"
+    structural_beat: "Pinch 1 (Bleed event)"
+  - id: 10
+    title: "Recovery, As Such"
+    status: "outline_only"
+    structural_beat: "post-Pinch 1 / midpoint approach"
+  - id: 11
+    title: "The Magistrate Who Used to Be Someone"
+    status: "outline_only"
+    structural_beat: "Midpoint"
+  - id: 12
+    title: "Reciprocity"
+    status: "outline_only"
+    structural_beat: "post-midpoint rising"
+  - id: 13
+    title: "Wyrmsign"
+    status: "outline_only"
+    structural_beat: "rising"
+  - id: 14
+    title: "The Reform Faction"
+    status: "outline_only"
+    structural_beat: "rising"
+  - id: 15
+    title: "Lowmarket, Again"
+    status: "outline_only"
+    structural_beat: "approach to Pinch 2"
+  - id: 16
+    title: "Going Under"
+    status: "outline_only"
+    structural_beat: "Pinch 2 (near-Dissolution)"
+  - id: 17
+    title: "The Offer"
+    status: "outline_only"
+    structural_beat: "Pinch 2 aftermath / approach to Plot Turn 2"
+  - id: 18
+    title: "The Dependency"
+    status: "outline_only"
+    structural_beat: "Plot Turn 2 (convergent hinge)"
+  - id: 19
+    title: "The Open Hand"
+    status: "outline_only"
+    structural_beat: "Resolution (climax)"
+  - id: 20
+    title: "What Stays Open"
+    status: "outline_only"
+    structural_beat: "Resolution (denouement)"
+
+decisions_log:
+  - "Beloved (Mari) lives; cost is paid in identity/permanent vulnerability, not death. See ASSUMPTIONS.md."
+  - "Protagonist is a Material-opener, not a Person-opener, per character-types.md's least-burdened/gender-mixed specialization."
+  - "Antagonist (Vesper Reed) built on the Broken Healer route per character-types.md and antagonist.md's sympathetic-villain mandate."
+  - "Title selected: The Open Hand."
