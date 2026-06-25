@@ -48,75 +48,80 @@ pipeline_status:
       the pipeline rule that audit requires a full manuscript, not a
       full-length one.
   phase_4_adversarial_audit:
-    status: "complete (re-audited, iteration 4)"
+    status: "complete (re-audited, iteration 6)"
     outputs:
       - "artifacts/08-adversarial-audit.md"
-    verdict: "PASS (zero open required-fix items, first time in project history)"
+    verdict: "PASS (zero open required-fix items, held since iteration 4)"
     note: >
-      Re-audit run against the post-fix, post-full-expansion ~94,800-
-      word manuscript. Iteration 3's re-audit (run immediately after
-      the 4-way parallel expansion to ~94,800 words) had found a PASS
-      verdict but flagged 4 new craft defects, all caused by the
-      independent expansion teams converging on the same low-effort
-      shortcuts: a Voice exclusivity leak (Vesper Reed's exclusive
-      hedge-then-antithesis construction appearing twice in Wren's
-      Ch.17 dialogue), a 5-location recurrence of the "filed [it] away"
-      phrase-tic (Ch.7, 11, 12, 13, 18), a 7+-instance "smelled of X
-      and, underneath that, Y" room-atmosphere template (worst in Ch.8,
-      12, 17, plus a near-verbatim duplicate between Ch.11 and Ch.19),
-      and a 6-instance "small unnecessary task during emotional
-      overwhelm" beat (worst in Ch.10, 15, 16). All four were fixed via
-      direct single-editor line edits (not further parallel delegation,
-      to avoid reproducing the same convergence problem) and verified
-      resolved by this iteration-4 re-audit, with no new instance of
-      any of the four patterns found anywhere in the manuscript and no
-      collateral damage to plot, characterization, or other scenes.
-      All 7 mandatory passes hold clean. This is the first iteration to
-      return zero required follow-up fixes.
+      Three further close-the-gap fix rounds run against the
+      iteration-4 PASS baseline, each independently re-audited:
+      iteration 5 added a Theme trim (Ch.9 narrated thesis-statement
+      following the Bleed sequence), a Pacing fix (Ch.18's capitulation
+      slowed with a genuine resistance beat grounded in Vesper's
+      backstory), and a first Characters fix (Ch.20, naming a cost to
+      Bram) -- the last judged only partially resolved, since the cost
+      landed on Bram rather than on Wren. Iteration 6 then added a
+      second, deeper Characters fix: a new scene appended to the end of
+      Ch.14 in which helping Bram with a failing dye commission costs
+      Wren a practice session and sleep before a high-stakes rehearsal,
+      with the cost confirmed paid forward into Ch.15's opening. This
+      fully resolved the "Bram never costs Wren anything directly"
+      finding carried since iteration 2 across five iterations -- the
+      longest-open finding in the project's audit history. All 7
+      mandatory passes hold clean at iteration 6; all four
+      iteration-3-era structural-repetition patterns and the Voice
+      exclusivity rule remain confirmed unregressed. Required
+      follow-up fixes remain at zero across iterations 4, 5, and 6.
   phase_5_final_score:
-    status: "complete (re-scored, iteration 4)"
+    status: "complete (re-scored, iteration 6)"
     outputs:
       - "artifacts/09-genesis-score-codex.md"
-    floor_score: 8.6
-    weighted_average: 8.82
-    gate_verdict: "NOT APPROVED (real score; Weighted Average short of 9.0 by 0.18)"
+    floor_score: 8.8
+    weighted_average: 8.93
+    gate_verdict: "NOT APPROVED (real score; Weighted Average short of 9.0 by 0.07)"
     note: >
       Real, non-provisional score (Phase 4 re-audit does not conclude
-      MAJOR REWRITE). Floor Score (8.6, Theme and Pacing tied) clears
-      the 8.5 gate threshold for the first time across all four
-      iterations, up from 8.1 (Prose) in iteration 3. Weighted Average
-      rose to 8.82 from 8.64 but remains short of the required 9.0.
-      Dimension changes vs. iteration 3, all directly attributable to
-      the confirmed fix pass: Prose 8.1 -> 8.8, Voice 8.3 -> 8.9,
-      Emotion 8.8 -> 9.0, Coherence 9.0 -> 9.1, Market 8.5 -> 8.7.
-      Unchanged (untouched by the fix pass, never the subject of an
-      audited defect): Originality 9.1, Theme 8.6, Characters 8.6,
-      Pacing 8.6, Opening 8.8. All ten dimensions clear 8.0. No single
-      dimension is in crisis; the remaining 0.18 gap to approval is
-      now a matter of incremental strengthening of mid-tier dimensions
-      (Theme, Characters, Pacing) rather than defect repair. Concrete,
-      already-diagnosed levers if pursued: trim Ch.9's narrated
-      thesis-statement following the dramatized Bleed sequence (Theme);
-      give Bram a scene that costs Wren something real, addressing the
-      "never costs her anything directly" note carried since iteration
-      2 (Characters); complicate one of the three carried-over "too
-      easy" pacing beats (Ch.6 mentor gift, Ch.16 clean rescue, Ch.18
-      fast capitulation) (Pacing). Not yet executed; would require a
-      further revision-and-rescore cycle to verify.
+      MAJOR REWRITE). Per the user's "let's close the gap" direction,
+      three iterations of targeted fixes ran against the iteration-4
+      baseline (Floor 8.6, WA 8.82, gap 0.18). Iteration 5 (Floor 8.7,
+      WA 8.88, gap 0.12): Theme 8.6->8.9 (Ch.9 fix, fully resolved),
+      Pacing 8.6->8.8 (Ch.18 fix, fully resolved), Characters 8.6->8.7
+      (Ch.20 fix, only partially resolved -- cost landed on Bram, not
+      Wren). Iteration 6 (Floor 8.8, WA 8.93, gap 0.07): Characters
+      8.7->9.0 (+0.3, the deeper Ch.14 fix, fully resolved -- the
+      project's longest-carried finding, closed for the first time),
+      Market 8.7->8.8 (+0.1, secondary comp-fit effect of the same
+      fix). Unchanged across all three iterations: Originality 9.1,
+      Prose 8.8, Emotion 9.0, Coherence 9.1, Voice 8.9, Opening 8.8.
+      All ten dimensions clear 8.0, most by a full point or more; Floor
+      Score clears the 8.5 gate with its widest-ever margin. Only the
+      Weighted Average gate condition still fails, by the smallest
+      margin yet recorded (0.07, down from 0.18 at iteration 4). Every
+      specific, named craft defect this audit has ever raised against
+      this manuscript has now been resolved. What remains open is
+      confined to the audit's lowest-priority tier -- two long-declined
+      Pacing softness notes (Ch.6's mentor gift, Ch.16's clean rescue)
+      that the audit has repeatedly declined to call defects since
+      iteration 2/3 -- and the iteration-6 audit explicitly cautions
+      that the manuscript may be approaching this audit method's
+      natural ceiling, with further yield likely small and uncertain.
+      Not yet pursued further pending a decision on whether the
+      marginal 0.07 is worth chasing.
   phase_6_editorial_package:
-    status: "complete (provisional, updated for iteration 4)"
+    status: "complete (provisional, updated for iteration 6)"
     outputs:
       - "artifacts/10-editorial-package.md"
     note: >
-      Updated to reflect the iteration 4 audit/score state: zero open
-      required-fix items, ~94,800 words (no longer a length-driven
-      risk), Floor 8.6 (clears gate), Weighted Average 8.82 (0.18 short
-      of the 9.0 gate). Still labeled PROVISIONAL / PRE-APPROVAL at the
-      top of the file, and its query strategy section still says "do
-      not query yet," since the manuscript has not yet cleared the
-      approval gate. Should not be sent externally (agents/editors/
-      readers) until the Weighted Average clears 9.0 on a future
-      re-score.
+      Updated to reflect the iteration 6 audit/score state: zero open
+      required-fix items, ~95,900 words (verified by direct word
+      count), Floor 8.8 (clears gate with the widest margin yet),
+      Weighted Average 8.93 (0.07 short of the 9.0 gate, the smallest
+      gap recorded across six iterations). Still labeled PROVISIONAL /
+      PRE-APPROVAL at the top of the file, and its query strategy
+      section still says "do not query yet," since the manuscript has
+      not yet cleared the approval gate. Should not be sent externally
+      (agents/editors/readers) until the Weighted Average clears 9.0 on
+      a future re-score.
 
 chapters:
   - id: 1
@@ -161,8 +166,8 @@ chapters:
     structural_beat: "approach to Pinch 1"
   - id: 9
     title: "What It Costs to Hold Open a Person"
-    status: "expanded (iteration 3)"
-    word_count_approx: 4085
+    status: "revised (iteration 5: trimmed narrated thesis-statement)"
+    word_count_approx: 4049
     structural_beat: "Pinch 1 (Bleed event)"
   - id: 10
     title: "Recovery, As Such"
@@ -186,8 +191,8 @@ chapters:
     structural_beat: "rising"
   - id: 14
     title: "The Reform Faction"
-    status: "expanded (iteration 3)"
-    word_count_approx: 3947
+    status: "revised (iteration 6: appended Bram dye-commission scene, cost to Wren)"
+    word_count_approx: 4555
     structural_beat: "rising"
   - id: 15
     title: "Lowmarket, Again"
@@ -206,8 +211,8 @@ chapters:
     structural_beat: "Pinch 2 aftermath / approach to Plot Turn 2"
   - id: 18
     title: "The Dependency"
-    status: "expanded (iteration 3)"
-    word_count_approx: 3999
+    status: "revised (iteration 5: added Vesper resistance beat before capitulation)"
+    word_count_approx: 4306
     structural_beat: "Plot Turn 2 (convergent hinge)"
   - id: 19
     title: "The Open Hand"
@@ -216,8 +221,8 @@ chapters:
     structural_beat: "Resolution (climax)"
   - id: 20
     title: "What Stays Open"
-    status: "expanded (iteration 3)"
-    word_count_approx: 5855
+    status: "revised (iteration 5: named a cost to Bram, later superseded by Ch.14 fix)"
+    word_count_approx: 6137
     structural_beat: "Resolution (denouement)"
 
 decisions_log:
