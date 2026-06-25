@@ -108,23 +108,23 @@ pipeline_status:
 chapters:
   - id: 1
     title: "A Perfectly Reasonable Amount of Feeling"
-    status: "drafted"
-    word_count_approx: 2130
+    status: "revised (expanded)"
+    word_count_approx: 3950
     structural_beat: "Hook"
   - id: 2
     title: "The Lowmarket Fever"
-    status: "drafted"
-    word_count_approx: 1940
+    status: "revised (expanded)"
+    word_count_approx: 2960
     structural_beat: "Hook -> rising"
   - id: 3
     title: "The Name Nobody Says at Council"
-    status: "drafted"
-    word_count_approx: 2060
+    status: "revised (expanded)"
+    word_count_approx: 2990
     structural_beat: "Plot Turn 1 (approach)"
   - id: 4
     title: "What the Guild Won't Sign For"
-    status: "drafted"
-    word_count_approx: 1600
+    status: "revised (expanded)"
+    word_count_approx: 2290
     structural_beat: "Plot Turn 1"
   - id: 5
     title: "Wickern & Daughters"
