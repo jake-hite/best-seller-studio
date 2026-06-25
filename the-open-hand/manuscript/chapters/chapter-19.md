@@ -34,6 +34,12 @@ She found, somewhere in the first unbearable half-second, the shape she'd been b
 
 "I can hear it," Wren said, and heard her own voice arrive clear and whole, not blurred at all, not uncertain the way it had been the first time. "I'm not drowning. I'm — Vesper, I'm holding all of it, and I'm still here. That's the part nobody ever told me was possible."
 
+It did not stay that simple. A few minutes in, the flood found, the way water always eventually found, the one seam in the cupped shape she hadn't known to watch for — not a failure of nerve, just an old reflex, four years of flinching from too much feeling at once trying to reassert itself underneath everything she'd consciously chosen — and for one long, terrible second she felt the open palm start to close into a fist instead, felt the specific cold lurch of a person about to go under exactly the way she had the first time, in this same room, on this same bed, with none of the readiness she'd thought she'd finally earned.
+
+"Wren." Vesper's voice again, sharper now, no longer simply anchoring. "Don't close. I know precisely what closing feels like from the inside, better than anyone living, and I am telling you it is the wrong shape for this exact second. Open further. Past where it's comfortable. I am right here the entire time you do it, and I am not going anywhere."
+
+She opened further. It cost her something specific to do it — a fast, ugly stretch of fear with no name yet, the deliberate, terrifying choice to step past the exact point that had put her on the floor the first time — and felt the fist ease back into a palm, shaking now, unsteady in a way it hadn't been a minute ago, but a palm, open, holding rather than closing, and the flood, finding nowhere narrower left to exploit, simply kept arriving instead of breaking through.
+
 She reached, the way she'd watched Vesper reach two days ago, past the flood's formless edges toward whatever older, steadier thing in Mari was still, underneath three years of unexamined exhaustion, recognizably her sister — and found it almost at once, because she had spent her entire life, without ever once naming it as searching, looking for exactly that steady thing in exactly this person.
 
 *You're allowed to stop,* she thought, not in words exactly, but in the same shape words would have taken if there'd been time for them. *Not forever. Not as a verdict on what you're worth. I'm not asking you to be useful to deserve being held right now. Nobody in this room is.*

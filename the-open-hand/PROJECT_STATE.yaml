@@ -188,23 +188,23 @@ chapters:
     structural_beat: "Pinch 2 (near-Dissolution)"
   - id: 17
     title: "The Offer"
-    status: "drafted"
-    word_count_approx: 1687
+    status: "revised (expanded)"
+    word_count_approx: 1846
     structural_beat: "Pinch 2 aftermath / approach to Plot Turn 2"
   - id: 18
     title: "The Dependency"
-    status: "drafted"
-    word_count_approx: 1883
+    status: "revised (expanded)"
+    word_count_approx: 2059
     structural_beat: "Plot Turn 2 (convergent hinge)"
   - id: 19
     title: "The Open Hand"
-    status: "drafted"
-    word_count_approx: 2241
+    status: "revised (expanded)"
+    word_count_approx: 2505
     structural_beat: "Resolution (climax)"
   - id: 20
     title: "What Stays Open"
-    status: "drafted"
-    word_count_approx: 1921
+    status: "revised (expanded)"
+    word_count_approx: 2358
     structural_beat: "Resolution (denouement)"
 
 decisions_log:
