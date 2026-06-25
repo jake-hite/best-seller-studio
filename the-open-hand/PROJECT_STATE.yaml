@@ -70,14 +70,35 @@ pipeline_status:
       and a real setback to the Cae subplot, expand Bram's relationship
       into a dramatized scene). Not yet actioned.
   phase_5_final_score:
-    status: "not_started"
+    status: "complete"
+    outputs:
+      - "artifacts/09-genesis-score-codex.md"
+    floor_score: 6.5
+    weighted_average: 7.82
+    gate_verdict: "NOT APPROVED (provisional)"
     note: >
-      Unblocked (Phase 4 complete) but expected to record a provisional,
-      non-approved score per the gate rule: "If the adversarial audit
-      concludes MAJOR REWRITE, the score may be recorded provisionally
-      but the manuscript is not eligible for approval."
+      Recorded provisionally per the gate rule, since Phase 4 concluded
+      MAJOR REWRITE. Weakest dimension: Voice (6.5), driven by the
+      audit's voice-differentiation failure. Six of ten dimensions
+      score below 8.0 (Characters 7.6, Prose 7.8, Pacing 7.5, Emotion
+      7.9, Market 6.8, Voice 6.5). Strongest dimensions: Opening (8.7),
+      Coherence (8.6), Originality (8.6). Required interventions before
+      re-score, in priority order: voice differentiation pass; de-
+      duplicate repeated chapter-ending phrasing; add real cost/jeopardy
+      to Movement III and the Ch.19 climax; restore the dorky/uncool
+      comic register in Movement III/IV; resolve the word-count gap
+      (expansion preferred over repositioning, since required scene
+      work overlaps with items above). None of these require outline
+      or structural changes.
   phase_6_editorial_package:
     status: "not_started"
+    note: >
+      Deliberately not started. The phase's own goal statement presumes
+      an approved manuscript ("turn the approved manuscript into a
+      sales-ready editorial package"), and Phase 5 explicitly did not
+      approve this draft. Per genesis-score-codex.md's own guidance,
+      do not treat Phase 6 as a final sales-ready deliverable until a
+      re-score clears the approval gate.
 
 chapters:
   - id: 1
