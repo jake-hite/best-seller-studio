@@ -128,33 +128,33 @@ chapters:
     structural_beat: "Plot Turn 1"
   - id: 5
     title: "Wickern & Daughters"
-    status: "drafted"
-    word_count_approx: 1690
+    status: "revised (expanded)"
+    word_count_approx: 2730
     structural_beat: "rising"
   - id: 6
     title: "The Locked Cabinet"
-    status: "drafted"
-    word_count_approx: 1230
+    status: "revised (expanded)"
+    word_count_approx: 1746
     structural_beat: "rising"
   - id: 7
     title: "A Theory With No Guild Behind It"
-    status: "drafted"
-    word_count_approx: 1250
+    status: "revised (expanded)"
+    word_count_approx: 2059
     structural_beat: "rising"
   - id: 8
     title: "The House on the Quiet Ward"
-    status: "drafted"
-    word_count_approx: 1500
+    status: "revised (expanded)"
+    word_count_approx: 2637
     structural_beat: "approach to Pinch 1"
   - id: 9
     title: "What It Costs to Hold Open a Person"
-    status: "drafted"
-    word_count_approx: 1900
+    status: "revised (expanded)"
+    word_count_approx: 2181
     structural_beat: "Pinch 1 (Bleed event)"
   - id: 10
     title: "Recovery, As Such"
-    status: "drafted"
-    word_count_approx: 1713
+    status: "revised (expanded)"
+    word_count_approx: 1972
     structural_beat: "post-Pinch 1 / midpoint approach"
   - id: 11
     title: "The Magistrate Who Used to Be Someone"
