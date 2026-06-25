@@ -1,328 +1,262 @@
-# 08 — Adversarial Audit (Re-Audit, Iteration 3)
+# 08 — Adversarial Audit (Re-Audit, Iteration 4)
 
 **Phase 4 of book-genesis-codex.** Manuscript audited: all 20 chapters of
-*The Open Hand*, post-expansion (~94,780 words, complete draft, up from the
-~46,907-word draft scored in Iteration 2). Between Iteration 2 and this
-re-audit, four parallel editing teams — one per movement of roughly 4-6
-chapters each — expanded the manuscript via scene-deepening (added
-interiority, sensory texture, dialogue, friction) without changing plot
-events or structure. This re-audit re-runs all 7 passes from scratch
-against the current full text — it does not assume the Iteration 2 findings
-still hold, and it specifically checks whether the independent, parallel
-nature of the expansion work introduced new problems that a single-author
-revision would have been less likely to create.
+*The Open Hand* (~94,800 words), following a round of targeted, single-editor
+line edits applied directly against Iteration 3's four "required follow-up
+fixes." Unlike the Iteration 2→3 transition, this round was not a parallel
+multi-team expansion — it was a focused craft-defect cleanup, touching only
+the specific sentences/paragraphs named in Iteration 3's audit, across
+Chapters 7, 8, 10, 11, 12, 13, 15, 16, 17, and 18. This re-audit re-reads
+the full manuscript fresh, verifies each of the four fixes actually resolved
+the named defect without collateral damage, and re-runs all 7 passes against
+the current text rather than assuming the untouched 10 chapters are
+unchanged in substance (though, having verified them, they are).
 
-**Headline verdict:** the four passes that drove Iteration 1's MAJOR
-REWRITE escalation (Passes 2, 4, 5, 6) remain passing in their original
-substance — no wholesale reversion. However, the expansion has introduced
-**new, real, isolated findings** in Pass 2 (Voice Differentiation) and
-Pass 6 (Structural Repetition) that were not present in Iteration 2 and
-must be reported plainly rather than smoothed over. These findings are
-genuine regressions caused by parallel editing, not artifacts of stricter
-scrutiny this time around. None of them, individually or in combination,
-rises to the "substantive and pervasive" bar this phase's own escalation
-rule requires — but they are real, they are new, and they should be fixed
-before this manuscript is treated as finished.
+**Headline verdict: all four Iteration 3 required fixes are confirmed
+cleanly applied. No new craft defects were introduced by the fix pass.**
+This is the first iteration in this project's audit history with zero open
+required-fix items. One pre-existing minor softness item (noted below,
+Pass 6b) edges closer to resolved but is not fully eliminated, and is
+downgraded from "required" to "optional residual polish."
 
 ---
 
 ## Pass 1: Existence Test
 
-Re-run fresh against current chapter lengths (range: 2,698 words [Ch.15] to
-7,760 words [Ch.1]). No chapter reads as thin or padded-without-function.
-Ch.15's shortness is purpose-built, not a leftover weakness — it is the
-fast-escalating crisis chapter (the seeded buffer's failure, the house
-healer's "this is Saturation moving toward something I don't have a
-gentler name for") and its compression relative to its neighbors is a
-pacing choice, not a gap. Every chapter still does a distinct, traceable
-job in the causal chain. No chapter recommended for cut or merge.
+Re-confirmed. Chapter lengths and function are unchanged from Iteration 3
+except for surgical line-level edits within the ten touched chapters; no
+chapter grew, shrank, or shifted role in a way that affects this pass.
+Every chapter still does a distinct, traceable job in the causal chain
+(Ch.15's compression as the fast-escalating crisis chapter remains a
+deliberate pacing choice, not a gap). No chapter recommended for cut or
+merge.
 
 ---
 
-## Pass 2: Voice Differentiation — PASSES, with one new isolated finding
+## Pass 2: Voice Differentiation — PASSES CLEAN
 
-The per-character corrective voice rules established in Iteration 1 and
-verified clean in Iteration 2 remain intact for Cae, Corvin, Hesper, Iris,
-and Mari — direct re-reading of their expanded dialogue across all four
-movements (e.g., Cae's Ch.14/Ch.20 scenes, Corvin's Ch.4/10/20 beats,
-Hesper's Ch.5/10/20 beats, Iris's Ch.14/20 beats, Mari's Ch.16/17/19/20
-beats) confirms no new lines have drifted toward a shared rhetorical
-fingerprint.
+**The Iteration 3 finding is resolved.** Both Ch.17 instances of Wren
+borrowing Vesper's exclusive hedge-then-antithesis construction
+("I want to be exact/honest/plain about that" + balanced antithesis) have
+been rewritten:
 
-**New finding: Vesper's exclusive hedge-then-antithesis construction has
-leaked into Wren's dialogue, twice, in Chapter 17.** The corrective rule
-established in Iteration 1 and explicitly verified clean in Iteration 2
-reserved the construction "I want to be exact/honest/plain about that" +
-balanced antithesis exclusively for Vesper, as a marker of her courtroom-
-trained, composed-but-evasive cadence. A full-manuscript search this
-iteration confirms the construction still appears correctly in Vesper's
-dialogue throughout (Ch.11, 12, 16, 17, 18, 19) — but it now also appears
-twice in Wren's mouth, in the same chapter:
+- The former *"I'm not trying to catch you in something, I want to say
+  that plainly, the way you'd say it"* now reads: *"I'm not trying to
+  catch you in something — I'm asking because a reading that settles
+  instantly is usually broken, not calm, and I'd trust your answer less
+  for arriving that fast."* The setup clause ("I'm not trying to catch
+  you in something") survives, but the load-bearing half of the
+  violation — Vesper's signature hedge-then-antithesis shape — is gone,
+  replaced with a measurement/instrument metaphor that is squarely inside
+  Wren's own established voice (she has used "reading," "instrument,"
+  and "trust the number" framing since Ch.1).
+- The former *"I need to think," Wren said finally. "I want to be honest
+  with you the way you've been honest with me"* now reads: *"I need to
+  think," Wren said finally. "Not no. Not yes either. ... Nothing that
+  doesn't come with an undo gets decided on the first reading."* Clean
+  replacement, no trace of Vesper's construction, voice consistent with
+  Wren's ledger/measurement idiom.
 
-- *"I'm not trying to catch you in something, I want to say that plainly,
-  the way you'd say it."* (Ch.17, Wren to Vesper)
-- *"I need to think," Wren said finally. "I want to be honest with you the
-  way you've been honest with me."* (Ch.17, Wren to Vesper)
+A fresh full-manuscript search for the construction ("I want to be
+exact/honest/plain" and "I want to say [plainly]") confirms it now appears
+**only** in Vesper's dialogue (Ch.12, 16, 17, 19) and once in a context that
+is not the banned construction at all (Ch.5, Wren: *"I'm not sure I want to
+be exactly that"* — literal use of "want," no antithesis, pre-existing
+baseline text, not a voice violation). The exclusivity rule is fully
+restored. No new leak was introduced anywhere else in the manuscript by the
+fix itself or by any other touched chapter.
 
-Both instances occur in the same scene — the kitchen-table conversation
-where Vesper first offers Severance — and both are explicitly self-aware
-about the borrowing (the first names it outright: "the way you'd say it").
-This reads as though the editing team deepening Ch.17 deliberately wrote
-Wren beginning to absorb Vesper's verbal patterns as a sign of growing
-influence and intimacy. That is a defensible character idea in isolation,
-but it directly violates the voice-exclusivity rule this manuscript has
-twice now been audited against and twice confirmed clean for. Two lines in
-one chapter is not pervasive, but it is a real, locatable regression, not
-a matter of interpretation — and because the construction's entire value
-as a voice marker depends on its exclusivity, even two leaked instances
-measurably dilute it. **Recommend revising both lines in Ch.17 to a
-construction outside Vesper's established pattern**, or, if the "Wren is
-starting to sound like Vesper" beat is intentional, making that mirroring
-explicit and commented-on in the text rather than allowing it to read as
-an unflagged repetition.
+The per-character corrective voice rules for Cae, Corvin, Hesper, Iris, and
+Mari remain intact, unaffected by this round of edits, as confirmed in
+Iteration 3 and re-spot-checked this iteration in Ch.20.
 
-Net: the differentiation rules hold everywhere else, including under far
-heavier new dialogue load in Ch.14, 17, 18, 19, and 20 than Iteration 2 was
-tested against. This is upgraded from a clean PASS to **PASS with one
-isolated, fixable finding** — not severe enough to fail the pass outright,
-but real enough that it should not go unflagged.
+**Pass 2 status: clean PASS, no open findings.**
 
 ---
 
 ## Pass 3: Over-Explanation
 
-Unchanged from Iteration 2; the expansion neither fixed nor worsened these:
+Unchanged from Iteration 3; none of the fix-pass edits touched this
+material, and a fresh read confirms it is neither improved nor worsened:
 
 - Ch.9's narrated thesis-statement (*"This is what she carries every
   day,"* ... *"called it an ordinary Tuesday"*) immediately following the
   fully-dramatized Bleed sequence is still present verbatim.
 - The "you are allowed to stop... not forever... not a verdict on what
   you're worth" echo between Ch.16 (Vesper to Mari) and Ch.19 (Wren's
-  internal address to Mari) is still present, still diegetically justified
-  (Ch.19 explicitly frames Wren as consciously modeling what she watched
-  Vesper do two days earlier), and still not confused for unexplained
-  repetition.
-- Ch.18's triple-pass Severance reveal (Wren's bench-derived theory, then
-  the direct accusation in the garden, then Vesper's confession of the
-  four practitioners and her own self-implication) remains escalating
-  rather than redundant — each pass adds genuinely new information.
+  internal address to Mari) remains present and remains diegetically
+  justified (Ch.19 explicitly frames Wren as consciously modeling what she
+  watched Vesper do two days earlier) — confirmed again on this re-read,
+  word-for-word consistent with Iteration 3's description.
+- Ch.18's triple-pass Severance reveal remains escalating, not redundant.
 
-Status: unchanged, non-escalating, same as Iteration 2.
+Status: unchanged, non-escalating, same as Iteration 3.
 
 ---
 
 ## Pass 4: Human Mess — PASSES
 
-All four of Iteration 1's originally-failing findings remain resolved
-under the expanded text, with no reversion:
+All findings from Iteration 3 remain resolved; the fix pass did not touch
+any Pass 4 material, and nothing in the rewritten sentences removed any of
+the bodily-reality, friction, or pettiness beats previously credited:
 
-- Wren's named jealousy of Mari (Ch.5: *"I used to think you had the
-  easier end of it... Nobody was ever disappointed... because nobody
-  noticed enough to have an opinion either way"*) is present, unchanged,
-  and now sits inside a longer, more textured mother-daughter scene
-  (Hesper's "dye-set" theory of trained selflessness) that gives it more
-  surrounding weight rather than diluting it.
-- The dorky/uncool comic register is sustained at least as well as in
-  Iteration 2, with new instances added by the expansion itself: the
-  full Cae/wyrm-scale-as-coworker exchange in Ch.14, the Bartholomew
-  monologue-to-an-empty-kitchen scene in Ch.17, the dye-beetle
-  identification scene and the "furious, not dying" exchange with Bram in
-  Ch.20.
-- Petty behavior / frictionless secondary characters: modestly further
-  improved. Bram's Ch.20 visible discomfort after unintentionally
-  correcting Wren ("I wasn't trying to seem like I knew more than I
-  did... a little stiffly") is a genuine small friction beat with a real,
-  if minor, cost — closer to resolved than Iteration 2's "one beat of
-  restraint" finding suggested was likely without further work.
-- Bodily reality: further improved by new material — Wren's lingering
-  hand tremor and appetite disruption in Ch.17, Vesper's involuntary
-  flinch and unstilled hand-tremor in Ch.18, the knee-ache and "thirst so
-  total it was almost its own kind of pain" in Ch.19 — though still
-  concentrated around Bleed/crisis sequences rather than ordinary daily
-  life, the same residual softness noted (and not prioritized) in
-  Iteration 2.
+- Wren's named jealousy of Mari (Ch.5) is present, unchanged.
+- The dorky/uncool comic register (Ch.14, 17, 20) is unaffected by the
+  fix-pass edits, which were surgical and did not touch these scenes.
+- Bram's Ch.20 visible discomfort beat is unaffected, present, unchanged.
+- Bodily reality (Ch.17's hand tremor/appetite disruption, Ch.18's
+  Vesper flinch, Ch.19's knee-ache/thirst) is unaffected by the fix pass,
+  all confirmed present on this re-read.
 
-No new Pass 4 findings introduced by the expansion. Pass remains PASS.
+No new Pass 4 findings. Pass remains PASS.
 
 ---
 
 ## Pass 5: Failure Audit — PASSES
 
-Re-checked fresh; both items explicitly resolved in Iteration 2 remain
-resolved, and no new too-easy successes were introduced by the expansion:
+Re-checked fresh; unaffected by the fix pass, since none of the four
+required fixes touched a plan/beat-success structure:
 
-- Ch.19's climax still contains its genuine mid-rescue near-miss — Wren's
-  old flinching reflex threatens to close the open channel back into a
-  fist; Vesper's direct intervention (*"Don't close... Open further"*) is
-  required before Wren can push past the exact point that failed her the
-  first time. Verified present, unchanged, in the current text.
-- The Cae subplot's hearing in Ch.20 still nearly fails on the page —
-  Master Aldric's attack on Wren's credibility through her association
-  with Vesper's Severance history is a direct, costly callback to Iris's
-  Ch.14 warning, and it is Cae's own unscripted intervention, not adult
-  advocacy, that turns the ruling. This is, if anything, more load-bearing
-  now than in Iteration 2: the expansion adds a full beat of Wren
-  realizing in real time, mid-hearing, "how thoroughly her own history was
-  now somebody else's weapon," which sharpens the stakes rather than
-  softening them.
-- Ch.12's reciprocity-refusal scene (Wren demands to pay Vesper, is
-  refused, is left "frustrated") remains present and unchanged, still the
-  clearest in-scene cost-now beat in Movement III.
+- Ch.19's climax still contains its genuine mid-rescue near-miss (the old
+  flinching reflex threatening to close the open channel into a fist;
+  Vesper's *"Don't close... Open further"* intervention required).
+- Ch.20's hearing still nearly fails on the page — Master Aldric's attack
+  on Wren's credibility via her association with Vesper's Severance
+  history is a direct, costly callback to Iris's Ch.14 warning, and it is
+  Cae's own unscripted intervention that turns the ruling.
+- Ch.12's reciprocity-refusal scene remains present, unchanged.
 
-The three lower-priority, never-prioritized softness notes from Iteration
-2 (Ch.6's convenient mentor gift, Ch.16's clean rescue once Vesper
-arrives, Ch.18's fast capitulation, the last partly mitigated by the
-trembling-hands tell) persist in the same minor form. No new instance of a
-too-easy success was found anywhere in the new material. Pass remains
-PASS.
+No new instance of a too-easy success was introduced. Pass remains PASS.
 
 ---
 
-## Pass 6: Structural Repetition — new substantive findings; pass does not escalate to MAJOR REWRITE, but real fixes are required
+## Pass 6: Structural Repetition — PASSES; both required fixes confirmed resolved
 
-This pass required the most scrutiny this iteration, on two independent
-axes: literal phrase-level repetition, and beat-level (non-phrase)
-structural repetition introduced by the four parallel editing teams.
+**6a. Phrase-level "filed [it] away" tic — confirmed resolved, zero
+remaining instances.** A fresh full-manuscript search for "filed" across
+all 20 chapters locates exactly five hits outside the five rewritten
+locations, and all five are confirmed to be unrelated, non-tic uses,
+correctly distinct from the banned pattern:
 
-**6a. Phrase-level: the "filed [it] away" tic has recurred.** Iteration 2
-explicitly found and rewrote two instances of this tic (Ch.2, Ch.9) and
-confirmed, via full-manuscript search, zero remaining instances at that
-time. A fresh full-manuscript search this iteration finds the construction
-has reappeared — independently, in new expansion text, in **five** places
-across three different movements:
+- Ch.1: *"her lower back had filed its own quiet protest"* — an idiom,
+  pre-existing baseline text, not the "filed [feeling] away" tic.
+- Ch.3 (×2): the archivist Dell "refiling" boxes, and Wren noting the
+  guild registries "filed everything" by date — literal, mundane uses of
+  the word in an archive setting, not the banned tic.
+- Ch.6: Corvin's cross-referenced guild notes, *"not by date, which was
+  how the guild's own register filed everything"* — same literal,
+  non-tic use.
+- Ch.20: *"earned the right to be heard rather than filed"* — a
+  deliberate thematic payoff (institutional dismissal vs. being heard),
+  explicitly flagged as intentional in Iteration 3 and confirmed again
+  here; not a craft defect.
 
-- Ch.7: *"a small, specific physical tell she logged without comment and
-  filed under interesting, revisit later rather than alarming."*
-- Ch.11: *"She filed the refusal next to the steady hands and the lowered
-  plate and did not, for the moment, have anywhere productive to put any
-  of it."*
-- Ch.12: *"Vesper watched her do this without comment... which Wren
-  noticed and filed alongside everything else she was filing about this
-  woman without yet knowing what shelf it belonged on."*
-- Ch.13: *"which Wren noticed only distantly, filed it nowhere in
-  particular, and forgot within a dozen steps."*
-- Ch.18: *"Wren had heard all of that two days ago and filed it, at the
-  time, as context — useful, troubling, but abstract."*
+The five previously-flagged instances are each confirmed individually
+rewritten and clean:
 
-(Two other "filed" hits — Ch.3's archivist Dell "refiling" boxes and Ch.6's
-guild registry that "filed everything" by date, plus Ch.20's "heard rather
-than filed," referring to Cae's case being heard versus institutionally
-shelved — are literal or thematically distinct uses, not the banned tic,
-and are correctly excluded from this finding.)
+- Ch.7: now reads *"a small, specific physical tell she logged without
+  comment, sorted under interesting, revisit later rather than alarming,
+  and otherwise let alone."*
+- Ch.11: now reads *"She set the refusal alongside the steady hands and
+  the lowered plate and did not, for the moment, have anywhere productive
+  to put any of it."*
+- Ch.12: now reads *"which Wren noticed and added to the still-unsorted
+  pile of things she was learning about this woman without yet knowing
+  what to do with any of them."*
+- Ch.13: the previously-flagged sentence no longer appears anywhere in the
+  chapter; confirmed via full chapter re-read and targeted search.
+- Ch.18: now reads *"Wren had heard all of that two days ago and taken it,
+  at the time, as context — useful, troubling, but abstract."*
 
-The Ch.2 and Ch.9 fixes from Iteration 2 hold; this is not a reversion at
-those specific locations. It is, instead, clear evidence that because
-Wren's underlying habit (mentally cataloguing and deferring feelings she
-doesn't have time to process) is genuinely load-bearing characterization,
-four independent teams each reached for the same easy, pre-established
-verbal shorthand to dramatize it, recreating the exact tic Iteration 2
-spent effort removing. **Recommend rewriting all five instances above**,
-the same way the Ch.2/Ch.9 instances were rewritten — preserve the
-underlying habit, vary the language, since the habit itself is correctly
-thematic and the phrasing is what is not.
+All five rewrites preserve the underlying characterization (Wren
+mentally cataloguing and deferring feelings she doesn't have time to
+process) while varying the language, exactly as Iteration 3 recommended.
+No new instance of the tic was introduced anywhere else in the manuscript.
 
-**6b. Beat-level: cross-movement convergence on two generic texture
-patterns.** A systematic check across all 20 chapters for non-phrase
-structural repetition (i.e., independent teams reaching for the same kind
-of scene beat rather than the same words) found two genuine patterns:
+**6b. Beat-level texture patterns — both confirmed substantially
+thinned.**
 
-- **The "smelled of X and, underneath that, Y" room-atmosphere opening**
-  appears at least seven times (Ch.1, 2, 3, 11, 12, 14, 17, 18, 19 contain
-  instances; several chapters carry more than one), nearly always
-  deployed as a scene-grounding gesture immediately before or during an
-  emotionally weighted beat. The construction is close enough to a
-  template — and clusters heavily enough around the Mari-sickroom material
-  specifically (Ch.2, 8, 12 all use the willowbark/copper/medicinal
-  register in near-identical shape) — that a reader moving through
-  Movements I through III will recognize the same paragraph shape
-  recurring rather than experiencing each scene as freshly observed. The
-  Ch.1 instance earns its place (it does real worldbuilding work,
-  establishing the workshop and the alchemical-residue setting in the same
-  motion); several of the later instances are more purely decorative and
-  more interchangeable with each other.
-- **The "small unnecessary task during emotional overwhelm" beat**
-  (a secondary character's hands finding mending, a moved cup, a checked
-  lamp wick, a straightened blanket, in lieu of dialogue, to signal
-  suppressed anxiety) recurs at least six times across all four movements
-  (Ch.1's scale-wiping, Ch.5 and Ch.8's Hesper-mending, Ch.10's
-  Hesper-mending-again, Ch.15's Sela, Ch.16's unnamed house healer). The
-  Ch.16 instance is the most exposed, because the narration explicitly
-  names the pattern as universal ("the same restless aftermath Wren was
-  beginning to recognize as universal among people who had just watched
-  something nearly go wrong") — which reads as the prose noticing its own
-  recurring device rather than landing a fresh beat.
+- **"Smelled of X and, underneath that, Y" room-atmosphere template:**
+  confirmed removed from Ch.8 (Mari's-room intro), Ch.12 (both the
+  examination-room paragraph, which now reads *"Under the willow-bark
+  tincture Sela kept for fevers, Wren could still catch the ordinary,
+  particular smell of Mari herself"* — no template — and the dye-shed
+  paragraph, which was already template-free), and Ch.17 (kitchen
+  paragraph). The near-verbatim duplicate between Ch.11 and Ch.19
+  (*"smelled of wet stone and the particular green mineral tang"*) is
+  confirmed resolved: Ch.11's instance remains, untouched, as the sole
+  surviving original; Ch.19's matching towpath paragraph no longer
+  contains the phrase or the template at all (the current Ch.19 opening
+  uses a differently-shaped sentence: *"Rain in the night had left the
+  channel running fast and clean, and the air it threw up was cold stone
+  and something faintly green, nothing like the flat, sat-still smell of
+  the lock-house water"* — thematically connected to the running/still
+  water motif rather than a repeated atmosphere template). A fresh
+  manuscript-wide search for "smelled of" finds it remaining only in
+  Ch.1 (the kept, worldbuilding-earning instance), Ch.3 (archive-room,
+  distinct register and location), Ch.11 (kept original), Ch.14
+  (Iris's stairwell, distinct location/register), and Ch.18 (Wren's own
+  dye-shed, distinct and previously established). None of the remaining
+  instances cluster into a recognizable repeated template the way the
+  pre-fix set did; the pattern is thinned to the point of no longer
+  being reader-detectable as a device.
+- **"Small unnecessary task during emotional overwhelm" beat:** confirmed
+  removed from Ch.15 (Sela's beat is now a clipped, fast, fact-only
+  speech tell — *"her voice clipped down to facts and numbers... every
+  sentence arriving a half-beat too fast"* — rather than a task) and
+  Ch.16 (the house healer's instance no longer self-names the pattern as
+  "universal"; the line now reads *"less because he expected them to
+  change in the next sixty seconds than because his hands needed
+  something to do that wasn't simply standing still and watching a woman
+  not wake up,"* and the line-69 callback was correspondingly replaced
+  with a wordless-nod beat, *"gave Sela a short, professional nod that
+  seemed to cost him more than the silence had"*). Ch.10's instance is
+  confirmed replaced with the described intentional inversion — Hesper
+  arriving "empty-handed... which Wren noted dimly... as more unsettling
+  than anything Tobel had said about her numbers" — which is a variation
+  on the motif rather than a repetition of it, and retains the dye-vat
+  humming callback. The kept instances (Ch.1's scale-wiping, Ch.5 and
+  Ch.8's Hesper-mending) remain present and untouched, exactly as
+  intended.
 
-Both patterns are genuine evidence of what the task anticipated: four
-independently-working teams converging on the same low-effort solution to
-"add texture here" rather than varying their approach. Neither pattern
-introduces a plot or logic problem, and neither is anywhere near the
-severity of Iteration 1's original Pass 6 finding (which was about a
-single repeated phrase functioning as an authorial verbal tic across the
-whole book) — but both are real, both are new since Iteration 2, and both
-should be thinned before this manuscript is considered finished. Recommend
-keeping one or two of the strongest instances of each pattern (the Ch.1
-atmosphere opening; the Ch.5/Ch.8 Hesper-mending beats, since those are
-consistent, established characterization rather than a generic stand-in)
-and cutting or substantially varying the remainder.
+  One residual, non-blocking observation: Ch.16's house healer still
+  performs repeated small clinical checks (pulse, pupil, skin heat) "again
+  and again" during the same crisis, which is structurally adjacent to the
+  pattern even though the self-naming language is gone and the task is
+  diegetically justified by his professional role (a healer re-checking
+  vitals during an active medical emergency is itself the dramatized
+  content, not a displacement activity standing in for dialogue). This is
+  judged not to be a recurrence of the flagged defect — the task is the
+  scene's actual stakes, not a generic stand-in for unspoken feeling — but
+  it is close enough to the pattern's shape that a still-more-conservative
+  audit might flag it. Noted for awareness; not escalated to a finding.
 
-**Correctly excluded from this finding** (verified intentional and
-load-bearing, not accidental repetition): the running-water-versus-
-still-water motif (escalating explicitly from Ch.2 through the Ch.19
-synthesis, *"running, not dammed. That's the whole of it, really"*); the
-ledger/cataloguing habit (present Ch.1 through Ch.20, explicitly the
-book's closing image); the Ch.9/Ch.19 floor-collapse callback (the text
-itself names it as deliberate); the "tell me if you change your mind"
-door-left-open ritual repeated between Ch.8 and Ch.19 (the text itself
-names the repetition as intentional: "the same words she'd used the first
-time, because some promises were worth keeping in the same shape twice").
+**Net for Pass 6: both required fixes (6a, 6b) are confirmed resolved.
+No new phrase-level or beat-level repetition was introduced by the fix
+pass.** The running-water/still-water motif, the ledger/cataloguing habit,
+the Ch.9/Ch.19 floor-collapse callback, and the "tell me if you change your
+mind" ritual remain correctly excluded as intentional, load-bearing
+repetition, unaffected by this round.
 
-The previously-noted Ch.4-6 mentor-hands-over-object-then-exits pattern
-remains present in roughly its original, minor, non-escalating form.
-
-**Net for Pass 6: real, new, isolated findings exist (6a and 6b above),
-but the pass does not return a pervasive, manuscript-wide defect of the
-kind that triggered Iteration 1's escalation.** The five phrase
-recurrences and the two beat-level patterns are fixable with targeted line
-edits and light trims; none requires restructuring a chapter or altering
-plot. Pass status: **PASS, with required follow-up fixes** — not a clean
-pass, and should not be reported as one.
+**Pass 6 status: clean PASS, no open required findings.**
 
 ---
 
 ## Pass 7: Agent Pitch Test
 
-Re-run fresh. **Page 1** and **Page 5** still survive cleanly — the
-opening's voice, stakes, and comic register are unchanged and the
-expansion has not diluted them (Ch.1's added material is concentrated in
-sensory grounding and the Corvin/Bartholomew dynamic, not in delaying the
-inciting incident, which still arrives in the same place).
+Re-run fresh. Page 1 and Page 5 still survive cleanly, unaffected by the
+fix pass (no edits touched Ch.1's opening material). The ending still
+repays the opening promise: the ledger callback (Ch.1 → Ch.20) remains the
+book's strongest agent-grade payoff, untouched by this round's edits. The
+central romance still lands on the page via Ch.20's dye-beetle scene.
 
-**Does the ending repay the opening promise?** Yes, at least as fully as
-in Iteration 2, and arguably more so: the ledger callback (Ch.1 → Ch.20,
-*"I missed the ledger... I missed the boring parts most of all"*) remains
-the book's strongest agent-grade payoff, and the expansion adds further
-texture to it rather than working against it (Ch.20's closing image of
-Wren leaving her door open mid-page is a direct, earned escalation of the
-closed-workshop-door habit established across the book). The comedic
-"uncool, dorky heroine" hook — the single most market-differentiating
-thing about Ch.1 — remains sustained into the back third via the Ch.14,
-17, and 20 beats catalogued under Pass 4.
+The one item Iteration 3 flagged for awareness — a skeptical agent might
+read the Ch.17 Wren/Vesper voice-mirroring as intentional on a first pass,
+only catching the problem on a second, closer read — is now moot, since
+the lines that prompted the observation have been rewritten and the
+mirroring no longer exists to be misread either way.
 
-**The central romance** continues to land on the page rather than in
-summary: Ch.20's dye-beetle identification scene, including Bram's
-visible discomfort after an unintentional correction, gives the reader
-direct evidence for the relationship the ending asks them to feel
-satisfied by, consistent with Iteration 2's finding.
-
-One new observation worth flagging for awareness, not as a finding: a
-skeptical agent reading Ch.17-19 closely enough to notice the Pass 2 voice
-leak (Wren briefly borrowing Vesper's hedge construction) might read it as
-intentional and clever on a first pass — the kind of thing that only
-becomes a problem on a second, closer read, which is exactly the read this
-audit is built to simulate on the agent's behalf.
-
-This pass returns no new unresolved finding beyond the Pass 2 note already
-logged above.
+This pass returns no open finding.
 
 ---
 
@@ -330,61 +264,47 @@ logged above.
 
 **Gate Verdict: PASS — audit does not conclude MAJOR REWRITE.**
 
-No pass reverted to a pervasive, manuscript-wide failure of the kind that
-drove Iteration 1's escalation. Passes 1, 3, 4, 5, and 7 hold clean, with
-no new findings (Pass 1, 4, 5, 7) or unchanged previously-logged minor
-findings (Pass 3). Passes 2 and 6 each surface new, real, but narrow
-findings introduced specifically by the parallel, independent nature of
-this expansion pass — two leaked Vesper-construction lines in one chapter
-(Pass 2), a recurred phrase-tic in five new locations (Pass 6a), and two
-beat-level texture patterns repeated across movements (Pass 6b). None of
-these, individually or together, meets the bar of "substantive and
-pervasive" this phase's own escalation rule requires for a MAJOR REWRITE
-call — they are isolated, locatable, and fixable with targeted line edits,
-not structural revision.
+All 7 passes hold clean. Passes 1, 3, 4, 5, and 7 are unchanged from
+Iteration 3 (no new findings). Passes 2 and 6, which carried Iteration 3's
+only open required fixes, are now **fully resolved**: the Ch.17
+voice-exclusivity leak is rewritten and confirmed gone; all five "filed"
+tic instances are rewritten and confirmed gone with no new instances
+introduced; the "smelled of" template is thinned below the threshold of
+reader-detectable repetition; the "small unnecessary task" beat is thinned
+and varied, with the two kept instances (Ch.1, Ch.5/8) correctly preserved
+and the problematic self-naming instance (Ch.16) corrected.
 
-**What this verdict means for Phase 5:** per the scoring contract, since
-this audit does not conclude MAJOR REWRITE, the Phase 5 score that follows
-is a real (non-provisional) score. The new findings above are real craft
-costs and should depress the relevant dimension scores (principally Voice
-and Prose) relative to where the raw word-count growth alone might suggest
-they should land — they are not waved away by this verdict, only kept out
-of escalation territory.
+**What this verdict means for Phase 5:** since this audit does not
+conclude MAJOR REWRITE, the Phase 5 score that follows is a real
+(non-provisional) score. Unlike Iteration 3, there are no outstanding
+"required follow-up fixes" depressing the Voice or Prose dimensions this
+time — the specific defects that depressed those two dimensions in
+Iteration 3 are confirmed resolved. The score should reflect that
+improvement honestly, while still applying full scrutiny to whether any
+residual softness (e.g., the Ch.16 vitals-check observation above, or
+pre-existing minor items below) caps how high any dimension can credibly
+go.
 
-**Required follow-up fixes** (non-blocking for the MAJOR REWRITE
-determination, but genuinely required before this manuscript should be
-considered finished, not merely "not failing"):
+**Required follow-up fixes: none.** This is the first iteration with zero
+items in this section.
 
-1. Rewrite the two Ch.17 instances of Wren using Vesper's exclusive hedge
-   construction, or make the mirroring explicit and intentional in the
-   text rather than allowing it to pass as an unflagged repetition.
-2. Rewrite the five new instances of the "filed [it] away" tic (Ch.7, 11,
-   12, 13, 18), preserving the underlying characterization (Wren defers
-   processing feelings she doesn't have time for) while varying the
-   language, the same way the Ch.2 and Ch.9 instances were fixed in
-   Iteration 2.
-3. Thin the "smelled of X and, underneath that, Y" room-atmosphere
-   template — keep the Ch.1 instance, cut or substantially rewrite at
-   least three of the remaining six-plus instances, prioritizing Ch.8,
-   12, and 17 as the most interchangeable.
-4. Thin the "small unnecessary task during emotional overwhelm" beat —
-   keep the established Hesper-mending instances (Ch.5, 8), cut or
-   substantially vary the Ch.10, 15, and 16 instances, with particular
-   priority on Ch.16, where the narration explicitly names the pattern as
-   universal.
+**Optional residual polish, carried forward, still not blocking (no
+material change from Iteration 3):**
 
-None of these four items requires touching plot, structure, or chapter
-count. All four are local line/paragraph-level edits.
+- The Pass 3 Ch.16/Ch.19 "allowed to stop" echo would benefit from one
+  explicit acknowledging line if the manuscript is revisited again
+  (already diegetically justified; this is a stylistic nicety, not a
+  defect).
+- The Ch.4-6 mentor-exit structural beat remains a minor candidate for
+  variation if another full pass is ever done.
+- The Ch.16 house healer's repeated vitals-check beat (noted under Pass
+  6b above) could be varied further in a future pass purely for variety,
+  though it is not currently judged to be a defect.
 
-**Recommended remaining attention, carried over from Iteration 2, still
-not blocking:** the Pass 3 Ch.16/Ch.19 echo would benefit from one
-explicit acknowledging line if the manuscript is revisited again; the
-Ch.4-6 mentor-exit structural beat remains a minor candidate for variation
-if another full pass is ever done.
-
-**On the new minor character Tobel (Ch.10):** introduced cleanly as the
-Quiet House's healer during Wren's recovery — dry humor, functional role
-(confiscates Wren's ledger to enforce rest, sets up the Bram visit),
-confined entirely to Ch.10 with no reappearance and no dangling thread.
-This is not a structural problem and requires no fix; noted for
-completeness only, per the explicit instruction to check it.
+**On the fix pass itself:** all four Iteration 3 required items were
+addressed via direct, surgical line edits rather than further parallel
+expansion, and this approach succeeded in resolving every named defect
+without introducing any new instance of any of the four patterns, and
+without disturbing any scene, beat, plot point, or characterization
+identified as load-bearing elsewhere in this or prior audits. This is the
+cleanest fix pass in this project's audit history.

@@ -48,67 +48,75 @@ pipeline_status:
       the pipeline rule that audit requires a full manuscript, not a
       full-length one.
   phase_4_adversarial_audit:
-    status: "complete (re-audited, iteration 2)"
+    status: "complete (re-audited, iteration 4)"
     outputs:
       - "artifacts/08-adversarial-audit.md"
-    verdict: "PASS (was MAJOR REWRITE in iteration 1)"
+    verdict: "PASS (zero open required-fix items, first time in project history)"
     note: >
-      Re-audit: all 7 passes re-run from scratch against the revised,
-      expanded ~46,900-word manuscript (up from ~34,400 words). All
-      four passes that drove iteration 1's MAJOR REWRITE escalation
-      (2 Voice Differentiation, 4 Human Mess, 5 Failure Audit, 6
-      Structural Repetition) now pass on direct re-reading, each with
-      quoted textual evidence: Cae Rookwood now speaks in genuine child
-      syntax; Wren's named jealousy of Mari is dramatized on the page
-      (Ch.5); the dorky/uncool comic register is restored across 5+
-      Movement III/IV beats; Ch.19's climax now contains a genuine
-      mid-rescue near-miss; the Cae subplot now has a dramatized
-      near-failure at the hearing (Ch.20) instead of an off-page,
-      asserted resolution; two residual phrase-tic instances (Ch.2,
-      Ch.9) were found via fresh full-manuscript search and fixed,
-      leaving zero remaining instances. A small number of isolated,
-      non-escalating findings remain (Pass 3's minor over-explanation
-      notes; Bram's residual frictionlessness; a few unaddressed
-      lower-priority softness notes in Ch.6/16/18; the Ch.4-6
-      mentor-exit structural pattern) but none rises to "substantive
-      and pervasive." Since this audit does not conclude MAJOR REWRITE,
-      the Phase 5 score that follows is a real, non-provisional score.
+      Re-audit run against the post-fix, post-full-expansion ~94,800-
+      word manuscript. Iteration 3's re-audit (run immediately after
+      the 4-way parallel expansion to ~94,800 words) had found a PASS
+      verdict but flagged 4 new craft defects, all caused by the
+      independent expansion teams converging on the same low-effort
+      shortcuts: a Voice exclusivity leak (Vesper Reed's exclusive
+      hedge-then-antithesis construction appearing twice in Wren's
+      Ch.17 dialogue), a 5-location recurrence of the "filed [it] away"
+      phrase-tic (Ch.7, 11, 12, 13, 18), a 7+-instance "smelled of X
+      and, underneath that, Y" room-atmosphere template (worst in Ch.8,
+      12, 17, plus a near-verbatim duplicate between Ch.11 and Ch.19),
+      and a 6-instance "small unnecessary task during emotional
+      overwhelm" beat (worst in Ch.10, 15, 16). All four were fixed via
+      direct single-editor line edits (not further parallel delegation,
+      to avoid reproducing the same convergence problem) and verified
+      resolved by this iteration-4 re-audit, with no new instance of
+      any of the four patterns found anywhere in the manuscript and no
+      collateral damage to plot, characterization, or other scenes.
+      All 7 mandatory passes hold clean. This is the first iteration to
+      return zero required follow-up fixes.
   phase_5_final_score:
-    status: "complete (re-scored, iteration 2)"
+    status: "complete (re-scored, iteration 4)"
     outputs:
       - "artifacts/09-genesis-score-codex.md"
-    floor_score: 7.4
-    weighted_average: 8.60
-    gate_verdict: "NOT APPROVED (real score, not provisional)"
+    floor_score: 8.6
+    weighted_average: 8.82
+    gate_verdict: "NOT APPROVED (real score; Weighted Average short of 9.0 by 0.18)"
     note: >
-      Recorded as a real score per the gate rule, since Phase 4's
-      re-audit no longer concludes MAJOR REWRITE. Weakest, and now
-      only sub-8.0, dimension: Market (7.4), driven by the still-
-      substantial word-count gap (~46,900 of the 100,000-word target,
-      ~47%). All nine other dimensions now clear 8.0, including the
-      two that drove iteration 1's escalation: Voice rose 6.5 -> 8.9,
-      Characters rose 7.6 -> 8.4. Other gains: Prose 7.8 -> 8.7, Pacing
-      7.5 -> 8.4, Emotion 7.9 -> 8.7, Market 6.8 -> 7.4, Originality
-      8.6 -> 9.1, Theme 8.3 -> 8.5, Coherence 8.6 -> 8.9, Opening 8.7
-      -> 8.8. Sole remaining required intervention before re-score:
-      continue expansion toward the 100,000-word target using the same
-      scene-deepening method already demonstrated (no outline or
-      structural changes needed; no further audit-driven craft fix
-      required).
+      Real, non-provisional score (Phase 4 re-audit does not conclude
+      MAJOR REWRITE). Floor Score (8.6, Theme and Pacing tied) clears
+      the 8.5 gate threshold for the first time across all four
+      iterations, up from 8.1 (Prose) in iteration 3. Weighted Average
+      rose to 8.82 from 8.64 but remains short of the required 9.0.
+      Dimension changes vs. iteration 3, all directly attributable to
+      the confirmed fix pass: Prose 8.1 -> 8.8, Voice 8.3 -> 8.9,
+      Emotion 8.8 -> 9.0, Coherence 9.0 -> 9.1, Market 8.5 -> 8.7.
+      Unchanged (untouched by the fix pass, never the subject of an
+      audited defect): Originality 9.1, Theme 8.6, Characters 8.6,
+      Pacing 8.6, Opening 8.8. All ten dimensions clear 8.0. No single
+      dimension is in crisis; the remaining 0.18 gap to approval is
+      now a matter of incremental strengthening of mid-tier dimensions
+      (Theme, Characters, Pacing) rather than defect repair. Concrete,
+      already-diagnosed levers if pursued: trim Ch.9's narrated
+      thesis-statement following the dramatized Bleed sequence (Theme);
+      give Bram a scene that costs Wren something real, addressing the
+      "never costs her anything directly" note carried since iteration
+      2 (Characters); complicate one of the three carried-over "too
+      easy" pacing beats (Ch.6 mentor gift, Ch.16 clean rescue, Ch.18
+      fast capitulation) (Pacing). Not yet executed; would require a
+      further revision-and-rescore cycle to verify.
   phase_6_editorial_package:
-    status: "complete (provisional)"
+    status: "complete (provisional, updated for iteration 4)"
     outputs:
       - "artifacts/10-editorial-package.md"
     note: >
-      Produced despite non-approval so the team has a working pitch
-      document to see, explicitly labeled PROVISIONAL / PRE-REVISION at
-      the top of the file. The package itself names its own blocking
-      issues (climax has no complication; word count is ~34,400 against
-      a 100K target; voice-differentiation is unresolved) and its query
-      strategy section explicitly says "do not query yet." This should
-      not be sent externally (agents/editors/readers) until the Phase 5
-      required interventions are actioned and the manuscript is
-      re-scored above the approval gate.
+      Updated to reflect the iteration 4 audit/score state: zero open
+      required-fix items, ~94,800 words (no longer a length-driven
+      risk), Floor 8.6 (clears gate), Weighted Average 8.82 (0.18 short
+      of the 9.0 gate). Still labeled PROVISIONAL / PRE-APPROVAL at the
+      top of the file, and its query strategy section still says "do
+      not query yet," since the manuscript has not yet cleared the
+      approval gate. Should not be sent externally (agents/editors/
+      readers) until the Weighted Average clears 9.0 on a future
+      re-score.
 
 chapters:
   - id: 1
