@@ -3,87 +3,89 @@
 **Project**: The Open Hand (`jake-hite/best-seller-studio/the-open-hand`)
 **Pipeline**: book-genesis-codex
 **Date**: 2026-06-25
-**Iteration**: 1 (first full-manuscript pass, post Phase 4 audit)
-**Manuscript state scored**: 20/20 chapters drafted, ~34,400 words total
-**Adversarial audit referenced**: `artifacts/08-adversarial-audit.md` — Gate Verdict: **MAJOR REWRITE**
+**Iteration**: 2 (re-score, post-revision, post Phase 4 re-audit)
+**Manuscript state scored**: 20/20 chapters, revised and expanded, ~46,907 words total (up from ~34,400 in Iteration 1)
+**Adversarial audit referenced**: `artifacts/08-adversarial-audit.md` (Re-Audit, Iteration 2) — Gate Verdict: **PASS — audit does not conclude MAJOR REWRITE**
 
-Per the scoring contract's Order of Operations: *"If the adversarial audit concludes `MAJOR REWRITE`, the score may be recorded provisionally but the manuscript is not eligible for approval."* Everything below is recorded under that explicit provisional status. This score exists to identify the concrete intervention path, not to certify the manuscript.
+Per the scoring contract's Order of Operations: *"If the adversarial audit concludes `MAJOR REWRITE`, the score may be recorded provisionally but the manuscript is not eligible for approval."* The linked Iteration 2 audit does not conclude MAJOR REWRITE — all four passes that drove Iteration 1's escalation (Voice, Human Mess, Failure Audit, Structural Repetition) now pass on direct re-reading. Everything below is therefore a **real, non-provisional score**, evaluating the manuscript on its actual current merits rather than identifying an intervention path.
 
 ## Dimension Scores
 
 | # | Dimension | Weight | Score | Weighted | Status |
 |---|-----------|--------|-------|----------|--------|
-| 1 | Originality | 1.1 | 8.6 | 9.46 | Pass |
-| 2 | Theme | 1.0 | 8.3 | 8.30 | Pass |
-| 3 | Characters | 1.2 | 7.6 | 9.12 | **Below 8.0** |
-| 4 | Prose | 1.0 | 7.8 | 7.80 | **Below 8.0** |
-| 5 | Pacing | 1.0 | 7.5 | 7.50 | **Below 8.0** |
-| 6 | Emotion | 1.1 | 7.9 | 8.69 | **Below 8.0** |
-| 7 | Coherence | 0.9 | 8.6 | 7.74 | Pass |
-| 8 | Market | 0.8 | 6.8 | 5.44 | **Below 8.0** |
-| 9 | Voice | 1.1 | 6.5 | 7.15 | **Below 8.0 — weakest** |
-| 10 | Opening | 0.8 | 8.7 | 6.96 | Pass |
-| | **TOTAL** | **10.0** | | **78.16** | |
+| 1 | Originality | 1.1 | 9.1 | 10.01 | Pass |
+| 2 | Theme | 1.0 | 8.5 | 8.50 | Pass |
+| 3 | Characters | 1.2 | 8.4 | 10.08 | Pass |
+| 4 | Prose | 1.0 | 8.7 | 8.70 | Pass |
+| 5 | Pacing | 1.0 | 8.4 | 8.40 | Pass |
+| 6 | Emotion | 1.1 | 8.7 | 9.57 | Pass |
+| 7 | Coherence | 0.9 | 8.9 | 8.01 | Pass |
+| 8 | Market | 0.8 | 7.4 | 5.92 | **Below 8.0 — weakest** |
+| 9 | Voice | 1.1 | 8.9 | 9.79 | Pass |
+| 10 | Opening | 0.8 | 8.8 | 7.04 | Pass |
+| | **TOTAL** | **10.0** | | **86.02** | |
 
-**Floor Score**: 6.5 (Voice)
-**Weighted Average**: 7.82
-**Gate Verdict**: **NOT APPROVED** (provisional score only)
+**Floor Score**: 7.4 (Market)
+**Weighted Average**: 8.60
+**Gate Verdict**: **NOT APPROVED** (real score; one dimension below threshold)
 
 Gate requirements and results:
-- Floor Score >= 8.5 → FAIL (6.5)
-- Weighted Average >= 9.0 → FAIL (7.82)
-- No dimension below 8.0 → FAIL (six dimensions: Characters, Prose, Pacing, Emotion, Market, Voice)
+- Floor Score >= 8.5 → FAIL (7.4)
+- Weighted Average >= 9.0 → FAIL (8.60)
+- No dimension below 8.0 → FAIL (one dimension: Market)
 - Evidence present for every dimension → satisfied (below)
-- Adversarial audit not marked MAJOR REWRITE → FAIL
+- Adversarial audit not marked MAJOR REWRITE → **PASS**
+
+This is a fundamentally different failure mode than Iteration 1. Six dimensions have moved from below 8.0 to comfortably above it (Characters, Prose, Pacing, Emotion, Voice, and Opening/Coherence/Theme/Originality all gained ground); the audit no longer forces a provisional score. Exactly one dimension — Market — remains below threshold, and it is driven by a single, already-diagnosed, already-being-worked cause: word count.
 
 ## Evidence by Dimension
 
-### Originality — 8.6
-The premise executes a genuine subversion of two stale defaults at once: a matriarchy built causally from the magic system (emotional fluency as the literal fuel/skill axis of the Permeance, rather than matriarchy as cosmetic backdrop) and a protagonist who is explicitly *not* the badass-warrior archetype the brief named as the thing to avoid — Wren is a humidity-log-loving alchemist whose heroism is competence with a ledger, not combat. Ch.1's "She loved the ledger best of anything in the building" and the antagonist's Severance mechanic (sever obligation, keep the feeling, lose the ability to spend it — Ch.18) are both novel turns on familiar magic-system tropes. Docked from higher because the dorky-protagonist premise, the single most original market-facing hook, is not sustained: per the audit's Pass 4, the comic/uncool register present in Ch.1 and Ch.13 disappears entirely from Ch.14 onward.
+### Originality — 9.1 (was 8.6)
+The core premise is unchanged and remains the manuscript's strongest asset: a matriarchy built causally from the magic system, and a protagonist who is explicitly not the badass-warrior archetype the brief named as the thing to avoid. What raises the score this iteration is that the premise's most market-differentiating, most fragile element — the "uncool, dorky heroine" comic register — is no longer abandoned at the midpoint. Per the audit's Pass 4, the register is now sustained into Movement III/IV across at least five beats (Cae's Ch.14 scene, the Bartholomew/beetle-confession beat in Ch.16, the Ch.17 midnight monologue, the Ch.20 dye-beetle scene), which means the thing that made this book's pitch original on page one is still true on page 300. Not raised to a perfect score because the device remains concentrated in scenes with Wren and a small set of secondary characters (Corvin, Cae) rather than appearing in, e.g., Council or Court-facing scenes, where the contrast with the institutional register would be sharper still.
 
-### Theme — 8.3
-The open-hand / closed-fist / cupped-hand symbol system is genuinely load-bearing, not decorative — it pays off mechanically (Ch.19's "cupped hand" synthesis is a real technical evolution of Ch.1's buffer fear, not just a image rhyme) and structurally (Ch.1/Ch.20 and Ch.9/Ch.19 mirror pairs both work). Docked because the audit's Pass 3 found the theme repeatedly over-stated in dialogue immediately after being dramatized — e.g., Ch.9's narration explicitly glossing what the scene just showed, and Ch.18's mechanism explained in nearly the same terms three separate times in one chapter. The theme is well-built but not fully trusted to land without restatement.
+### Theme — 8.5 (was 8.3)
+The open-hand / closed-fist / cupped-hand symbol system remains genuinely load-bearing and mechanically earned (Ch.19's synthesis, the Ch.1/Ch.20 and Ch.9/Ch.19 mirror pairs). The score moves up slightly because the Ch.16/Ch.19 "you are allowed to stop" echo — previously read as unexplained authorial repetition — is now diegetically justified: Ch.19 explicitly frames Wren as consciously modeling the technique she watched Vesper use, which converts a repetition into a thematic statement about how care propagates between characters. Not raised further because Ch.9's narrated thesis-statement immediately following the fully-dramatized Bleed sequence is still present verbatim — the theme is sound but still occasionally over-trusts restatement over the dramatization that already did the work.
 
-### Characters — 7.6 (below 8.0)
-The character bible (`03-characters.md`) is unusually rigorous — each principal has a stated wound, lie, and contradiction. The failure is execution, not design: Wren's bible-stated contradiction ("deeply, quietly competitive with the ease of Mari's belovedness, in a way she has never said out loud to anyone, including herself") is never dramatized anywhere in 20 chapters — it is promised and never paid. Per the audit's Pass 4, Bram is written with no real friction (every visit is offered help, accepted, no cost), and no major character causes their own setback at any point in the back half. A 1.2-weighted dimension scoring this low is the single largest drag on the weighted average after Voice.
+### Characters — 8.4 (was 7.6, below 8.0)
+The single largest score movement in this re-score. Per the audit's Pass 4, the bible-stated contradiction that was previously promised and never paid — Wren's quiet competitiveness with Mari's belovedness — is now directly dramatized in Ch.5: Wren admits, on the page, to having once envied that nobody expected anything of Mari, and Wren's admission is met by Wren's own correction that nobody being disappointed is not the same as nobody noticing. This is a real, costly admission, not a summary of one. Bram also gains a first beat of visible restraint in Ch.20 (deciding, visibly, not to say something he came to say) rather than uniform frictionless ease. Not raised higher because Bram's softness is only partially addressed — per the audit, he still never costs Wren anything directly — and bodily/physical reality, while improved, remains concentrated around crisis sequences rather than ordinary life.
 
-### Prose — 7.8 (below 8.0)
-Sentence-level control is generally strong — long, controlled, em-dash-driven interiority suits the close-third POV. Docked for the audit's Pass 6 finding of literal recurring phrase tics reused near-verbatim as chapter-ending devices: "the same patient corner of her mind" and "turned it over the way she'd turn over a [resonance reading/proof]" recur across Ch.12, Ch.14, and Ch.16 endings. Three chapters in a five-chapter span closing on structurally identical phrasing is a mechanical, fixable defect, not a matter of taste.
+### Prose — 8.7 (was 7.8, below 8.0)
+The audit's Pass 6 finding of literal recurring phrase tics — "the same patient corner of her mind," "filed away," "turned it over the way she'd turn over a [X]" — drove this score down in Iteration 1. A full-manuscript Grep this iteration found and fixed two additional residual instances (Ch.2, Ch.9) that the earlier revision pass had missed, and confirms zero remaining instances of the flagged construction across all 20 chapters. The underlying character trait the tic was attached to (Wren defers processing her feelings) is preserved and still present, but now expressed in distinct, non-repeating language each time it recurs, which is the correct fix — removing the tic without removing the thematically load-bearing habit it was describing. Not raised to a 9+ because the Ch.4-6 mentor-hands-over-object-then-exits structural beat, while a much smaller defect than a literal repeated phrase, is still present in roughly its original form across three chapters.
 
-### Pacing — 7.5 (below 8.0)
-The chapter-by-chapter momentum is generally well-shaped (avg. ~1,700 words/chapter keeps scenes economical), but per the audit's Pass 5, multiple stretches earn outcomes without cost: Ch.11-13 deliver three consecutive chapters of Vesper's help with no friction or price attached, and the Ch.19 climax — the book's single highest-stakes scene — resolves with no complication or near-miss, which breaks the tension-control pattern the book itself established in Ch.9 and Ch.16. A climax with zero risk of failure is a pacing defect at the most visible point in the book.
+### Pacing — 8.4 (was 7.5, below 8.0)
+Per the audit's Pass 5, both items explicitly named as required fixes are now directly evidenced in the text. Ch.19's climax now contains a genuine mid-rescue near-miss — Wren's old flinching reflex threatens to close the channel back into a fist, forcing Vesper's direct intervention before Wren pushes past the exact point that failed her the first time — giving the book's highest-stakes scene real, in-scene doubt about the outcome after commitment, which is consistent with the cost-for-success pattern the book itself established in Ch.9 and Ch.16. The Ch.11-13 "uninterrupted win streak" is addressed on two fronts: atmospheric foreboding runs through all three chapters, and Ch.12 now contains an actual scene of in-the-moment friction (Wren demands to pay Vesper for the seeding lesson, is refused, and is left angry and unsettled — a real disagreement with an unresolved emotional cost paid now). Not raised higher because three lower-priority softness notes persist and were never prioritized: Ch.6's convenient mentor gift, Ch.16's clean rescue once Vesper arrives, and Ch.18's fast capitulation (the last partially mitigated by an existing trembling-hands "tell").
 
-### Emotion — 7.9 (below 8.0, narrowly)
-The book does land real emotional beats — Mari's "I keep waiting to feel guilty about it... It hasn't yet" in Ch.20 earns its quiet relief, and the closing image of Wren leaving her workshop door open is an honest, unforced payoff of the title image. Docked because the Ch.19 climax's lack of complication (see Pacing) blunts what should be the book's single largest emotional release — relief without risk reads as smaller than the text intends — and because voice-flattening (see Voice) makes it harder to feel each character's emotional register as distinct rather than as variations on the narrator's own cadence.
+### Emotion — 8.7 (was 7.9, below 8.0)
+The Ch.19 climax's new complication (see Pacing) directly fixes the previous finding that relief-without-risk read as smaller than the text intended — the rescue now earns its relief because the outcome was genuinely in doubt after commitment. Voice differentiation (see Voice) also pays dividends here: distinct character registers make it easier to feel each relationship's emotional register as its own thing rather than a variation on the narrator's cadence — Mari's Ch.20 "I keep waiting to feel guilty about it... It hasn't yet" now reads against a genuinely different voice-print than Wren's own. Not raised higher because the Pass 3 Ch.16/Ch.19 echo, while now diegetically justified (see Theme), would still land more cleanly with one explicit acknowledging beat between the two characters.
 
-### Coherence — 8.6
-The magic-system mechanics are unusually disciplined for a fast-drafted manuscript. The buffer technique is introduced with a real invention beat (Ch.7), tested under controlled conditions (Ch.12's "seeding" refinement), and synthesized into the climax technique (Ch.19's "cupped hand") in a way that is mechanically traceable start to finish. Ch.18's Severance reveal — that severing obligation leaves a feeling "quiet" rather than "spent," and therefore unusable as rescue-fuel — retroactively and consistently recontextualizes Vesper's behavior in Ch.9, Ch.11, Ch.13, Ch.16, and Ch.17 without contradicting anything shown earlier. This is a genuine structural strength.
+### Coherence — 8.9 (was 8.6)
+The magic-system mechanics remain unusually disciplined, and the new scene work strengthens rather than strains the existing scaffolding: Ch.12's new reciprocity-refusal beat is built directly on the already-established seeding technique rather than introducing new mechanics, and Ch.20's new hearing scene draws its tension from the already-established Severance reveal and Iris's Ch.14 warning, rather than introducing a new threat from nowhere. The buffer → seeding → cupped-hand technical chain remains mechanically traceable start to finish with no contradictions introduced by the expansion. Not raised further only because this was already a near-ceiling dimension with limited room to move.
 
-### Market — 6.8 (below 8.0)
-The premise is legible and differentiated — matriarchal secondary-world fantasy with a non-warrior, non-conventionally-beautiful lead is a real, specific gap against the genre's current default, and directly answers the brief's stated complaint about female-lead pressure to be "badass." But packaging viability is seriously compromised by length: the manuscript is complete at ~34,400 words against a 100,000-word target, which is novella-length, not novel-length — a difficult, narrow submission category for secondary-world fantasy that would require either repositioning (novella market, serialized format) or substantial expansion before standard adult-fantasy agent submission. This is the dimension most directly affected by the Phase 3 length gap already flagged in `PROJECT_STATE.yaml`.
+### Market — 7.4 (was 6.8, below 8.0 — weakest dimension)
+The premise's positioning strength is unchanged and remains genuine: a non-warrior, non-conventionally-heroic lead in a causally-built matriarchal secondary world is a real, specific, currently underserved gap in adult fantasy. The score moves up because the manuscript is no longer the same severe outlier it was — at ~46,907 words it has grown from roughly 34% to roughly 47% of the 100,000-word target, and the craft fixes that drove the other nine dimensions' improvement (deepened scenes, added friction, restored comic beats, dramatized relationship) were largely the same expansion work the word-count gap required, so the growth is earned text, not padding. Still below 8.0 because the manuscript remains well short of standard adult-fantasy novel length — at present length it would still need either substantial further expansion or an explicit repositioning conversation (novella/shorter-novel categories, serialization) before a standard agent submission, and that decision has not yet been made.
 
-### Voice — 6.5 (below 8.0 — weakest dimension)
-This is the audit's most severe and best-evidenced finding (Pass 2). Every speaking character, regardless of age, profession, or background, shares one rhetorical register: a self-aware hedge ("I want to be exact/honest/plain about that") followed by balanced antithesis. The clearest evidence is Cae Rookwood, an eleven-year-old, in Ch.14: *"I want to stop feeling everyone in the building at once. Not to stop feeling things. Just — not all of it, all the time, with no wall anywhere."* That is adult analytical syntax in a child's mouth, and the same cadence recurs near-identically from Corvin (Ch.4), Hesper (Ch.5), Iris (Ch.14), Vesper (Ch.17), and Sela (Ch.9). A 1.1-weighted dimension at 6.5 is the largest single contributor to the failed gate.
+### Voice — 8.9 (was 6.5, below 8.0 — weakest dimension in Iteration 1)
+The largest qualitative turnaround in this re-score, and the audit's most severe Iteration 1 finding is now its cleanest Iteration 2 pass. Cae Rookwood, the eleven-year-old whose adult analytical hedging was the single most damning example in Iteration 1, now speaks in genuine child syntax in Ch.14: *"It's not even like feelings, really. It's more like noise... Does that make sense? Probably not. Nobody else thought it made sense either."* Corvin is consistently clipped (Ch.4, 6, 10), Hesper speaks in trade-rooted metaphor rather than abstract aphorism (Ch.5's dye-and-vat framing), Iris Hale reads as brisk and political (Ch.14-15, 18, 20), and Mari is warmer and more deflecting rather than self-analytical (Ch.2). Vesper's distinctive hedge-then-antithesis courtroom cadence ("I want to be exact/honest/plain about that") was deliberately preserved per the original corrective rule, and a full-manuscript search this iteration confirms it now appears only in her dialogue across the entire book — direct, verified proof that the differentiation rule was followed rather than just generally improved. Not scored higher because this is a freshly-completed pass without the benefit of a second independent re-read cycle; some isolated lines may still reward future scrutiny.
 
-### Opening — 8.7
-Page 1 and Page 5 both survive the audit's Agent Pitch Test cleanly. Ch.1 opens on a concrete, specific competence-image (eleven humidity measurements, a named dead-but-twitching wyrm scale called Bartholomew) rather than throat-clearing, and the closing callback in Ch.20 — "I missed the ledger... I missed the boring parts most of all, if I'm honest" answering Ch.1's "She loved the ledger best of anything in the building" — is a genuine, earned, agent-grade payoff of the opening promise. This is one of the manuscript's strongest structural assets and the main reason Originality and Coherence score as high as they do.
+### Opening — 8.8 (was 8.7)
+Page 1 and Page 5 both still survive the audit's Agent Pitch Test cleanly, unchanged. The score moves up slightly because the ending now repays the opening promise more fully than in Iteration 1: the central romance, previously underweighted relative to the emphasis Ch.20 places on it (Bram nearly absent from Ch.14-19, the relationship's deepening narrated in a single summary paragraph), is now directly dramatized — Ch.20 plays out a full scene between Wren and Bram (the dye-beetle identification exchange, including Bram visibly deciding not to say something he came to say) ahead of the conversation about naming the relationship, giving the reader on-page evidence for what the ending asks them to feel satisfied by. Not raised further because this is a structural strength already near its ceiling; there is limited additional room to move without changing the opening itself.
 
 ## Weakest Dimension
 
-**Voice (6.5)**, driving the Floor Score below the 8.5 approval threshold on its own.
+**Market (7.4)**, the sole dimension below the 8.0 floor and the sole driver of the failed gate. Every other dimension — including Voice and Characters, the two dimensions that drove Iteration 1's MAJOR REWRITE escalation — now clears 8.0.
 
 ## Required Intervention
 
-Per Revision Logic, in priority order:
+Per Revision Logic, in priority order, with the five Iteration 1 interventions now resolved or substantially resolved:
 
-1. **Voice differentiation pass** (fixes Voice 6.5, indirectly raises Characters and Emotion). Rewrite dialogue per the audit's per-character voice-rules table — most urgently Cae (needs actual child syntax, not adult analytical hedging), then Corvin (clipped, plain, no balanced-antithesis closings), Hesper (trade-rooted concrete metaphor), Mari (warmer, more deflecting, less self-aware than Wren). Vesper's courtroom cadence already suits her and should be preserved, not flattened toward the others.
-2. **De-duplicate repeated phrasing** (fixes Prose 7.8). No two chapters should share an ending device; rewrite the Ch.12/Ch.14/Ch.16 closings independently.
-3. **Add real cost to Movement III and the Ch.19 climax** (fixes Pacing 7.5, Emotion 7.9, and partially Characters 7.6). Give Ch.19 a genuine complication or near-miss; give the Ch.11–13 stretch at least one scene where Vesper's help has a visible price; dramatize Wren's named jealousy of Mari at least once on-page.
-4. **Restore the dorky/uncool comic register in at least two Movement III/IV beats** (fixes Originality's main shortfall and supports Market positioning — this register is the book's clearest brief-differentiator and currently vanishes after Ch.13).
-5. **Resolve the word-count/length gap before resubmission scoring** (fixes Market 6.8). Either reposition for the novella market explicitly in Phase 6 framing, or expand toward the 100K target with the deepened scene work items 1–4 already require, which is the more market-viable path since the needed expansion and the needed craft fixes are largely the same scenes.
+1. ~~Voice differentiation pass~~ — **Done.** Verified via the Iteration 2 audit's Pass 2 and a full-manuscript search confirming Vesper's hedge cadence is now exclusive to her dialogue.
+2. ~~De-duplicate repeated phrasing~~ — **Done.** Two additional residual instances (Ch.2, Ch.9) found and fixed this iteration; zero remaining instances confirmed manuscript-wide.
+3. ~~Add real cost/jeopardy to Movement III and the Ch.19 climax~~ — **Done.** Ch.19 now has a genuine mid-rescue near-miss; Ch.12 now has a real, costly disagreement; the Cae subplot now has a dramatized near-failure at the hearing rather than an off-page, asserted resolution.
+4. ~~Restore the dorky/uncool comic register in at least two Movement III/IV beats~~ — **Done.** At least five beats now carry the register into the back half of the book.
+5. **Resolve the word-count/length gap (fixes Market 7.4 — the sole remaining blocker).** The manuscript is at ~46,907 words against the 100,000-word target, roughly 47%. This is now the single identified lever standing between the current score and the approval gate: raising Market above 8.0 would, on current numbers, also lift both the floor score and the weighted average toward (though likely not all the way to) the gate's 8.5/9.0 thresholds. The craft work already done shows the right method — expansion through deepened scene work and added texture within the existing 20-chapter structure, not new chapters or outline changes — and should continue on the same model.
 
-Verify after each intervention that it does not damage Coherence (8.6) or Opening (8.7), both of which depend on the existing mechanical/structural scaffolding remaining intact — none of the five interventions above require structural or outline changes.
+No outline or structural changes are required or recommended; Coherence (8.9) and Opening (8.8) both depend on the existing scaffolding remaining intact, and nothing above calls for touching it.
 
 ## Approval Note
 
-**Not approved.** This score is recorded provisionally per the scoring contract's own rule, since the linked adversarial audit (`artifacts/08-adversarial-audit.md`) concluded MAJOR REWRITE. Re-score after the five interventions above are actioned; do not proceed to Phase 6 (Editorial Package) as a final, sales-ready deliverable until a re-score clears the approval gate (Floor >= 8.5, Weighted Average >= 9.0, no dimension < 8.0, audit not MAJOR REWRITE).
+**Not approved**, but for a materially different reason than Iteration 1. This score is a real, non-provisional score: the linked adversarial audit (`artifacts/08-adversarial-audit.md`, Iteration 2) does not conclude MAJOR REWRITE, so this result is not a placeholder pending a structural rewrite — it reflects the manuscript's actual current craft and positioning. The gate remains unmet solely because Market (7.4) sits below the 8.0 floor, which in turn is driven by the still-substantial word-count gap. Continue expansion toward the 100,000-word target using the same scene-deepening approach already demonstrated, then re-score; no further audit-driven craft intervention is required before that re-score, since all nine other dimensions already clear 8.0.

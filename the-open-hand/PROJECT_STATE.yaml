@@ -48,48 +48,53 @@ pipeline_status:
       the pipeline rule that audit requires a full manuscript, not a
       full-length one.
   phase_4_adversarial_audit:
-    status: "complete"
+    status: "complete (re-audited, iteration 2)"
     outputs:
       - "artifacts/08-adversarial-audit.md"
-    verdict: "MAJOR REWRITE"
+    verdict: "PASS (was MAJOR REWRITE in iteration 1)"
     note: >
-      All 7 passes run against the full 20-chapter draft. Passes 1
-      (Existence), 3 (Over-Explanation), and 7 (Agent Pitch) are
-      largely sound. Passes 2 (Voice Differentiation), 4 (Human Mess),
-      5 (Failure Audit), and 6 (Structural Repetition) fail, escalating
-      the verdict to MAJOR REWRITE per the pipeline's own multi-fail
-      escalation rule. The most severe findings: every character
-      (including an 11-year-old) shares one rhetorical register; the
-      Ch.19 climax succeeds with no complication, inconsistent with
-      the book's own established cost-for-success pattern; and the
-      brief's dorky/uncool comic register disappears entirely after
-      Ch.13. Explicitly does NOT require outline/structural changes --
-      structure (Pass 1) passed cleanly. Five bounded interventions are
-      listed in the audit (voice pass, de-duplicate repeated phrasing,
-      restore comic register in >=2 late beats, add jeopardy to Ch.19
-      and a real setback to the Cae subplot, expand Bram's relationship
-      into a dramatized scene). Not yet actioned.
+      Re-audit: all 7 passes re-run from scratch against the revised,
+      expanded ~46,900-word manuscript (up from ~34,400 words). All
+      four passes that drove iteration 1's MAJOR REWRITE escalation
+      (2 Voice Differentiation, 4 Human Mess, 5 Failure Audit, 6
+      Structural Repetition) now pass on direct re-reading, each with
+      quoted textual evidence: Cae Rookwood now speaks in genuine child
+      syntax; Wren's named jealousy of Mari is dramatized on the page
+      (Ch.5); the dorky/uncool comic register is restored across 5+
+      Movement III/IV beats; Ch.19's climax now contains a genuine
+      mid-rescue near-miss; the Cae subplot now has a dramatized
+      near-failure at the hearing (Ch.20) instead of an off-page,
+      asserted resolution; two residual phrase-tic instances (Ch.2,
+      Ch.9) were found via fresh full-manuscript search and fixed,
+      leaving zero remaining instances. A small number of isolated,
+      non-escalating findings remain (Pass 3's minor over-explanation
+      notes; Bram's residual frictionlessness; a few unaddressed
+      lower-priority softness notes in Ch.6/16/18; the Ch.4-6
+      mentor-exit structural pattern) but none rises to "substantive
+      and pervasive." Since this audit does not conclude MAJOR REWRITE,
+      the Phase 5 score that follows is a real, non-provisional score.
   phase_5_final_score:
-    status: "complete"
+    status: "complete (re-scored, iteration 2)"
     outputs:
       - "artifacts/09-genesis-score-codex.md"
-    floor_score: 6.5
-    weighted_average: 7.82
-    gate_verdict: "NOT APPROVED (provisional)"
+    floor_score: 7.4
+    weighted_average: 8.60
+    gate_verdict: "NOT APPROVED (real score, not provisional)"
     note: >
-      Recorded provisionally per the gate rule, since Phase 4 concluded
-      MAJOR REWRITE. Weakest dimension: Voice (6.5), driven by the
-      audit's voice-differentiation failure. Six of ten dimensions
-      score below 8.0 (Characters 7.6, Prose 7.8, Pacing 7.5, Emotion
-      7.9, Market 6.8, Voice 6.5). Strongest dimensions: Opening (8.7),
-      Coherence (8.6), Originality (8.6). Required interventions before
-      re-score, in priority order: voice differentiation pass; de-
-      duplicate repeated chapter-ending phrasing; add real cost/jeopardy
-      to Movement III and the Ch.19 climax; restore the dorky/uncool
-      comic register in Movement III/IV; resolve the word-count gap
-      (expansion preferred over repositioning, since required scene
-      work overlaps with items above). None of these require outline
-      or structural changes.
+      Recorded as a real score per the gate rule, since Phase 4's
+      re-audit no longer concludes MAJOR REWRITE. Weakest, and now
+      only sub-8.0, dimension: Market (7.4), driven by the still-
+      substantial word-count gap (~46,900 of the 100,000-word target,
+      ~47%). All nine other dimensions now clear 8.0, including the
+      two that drove iteration 1's escalation: Voice rose 6.5 -> 8.9,
+      Characters rose 7.6 -> 8.4. Other gains: Prose 7.8 -> 8.7, Pacing
+      7.5 -> 8.4, Emotion 7.9 -> 8.7, Market 6.8 -> 7.4, Originality
+      8.6 -> 9.1, Theme 8.3 -> 8.5, Coherence 8.6 -> 8.9, Opening 8.7
+      -> 8.8. Sole remaining required intervention before re-score:
+      continue expansion toward the 100,000-word target using the same
+      scene-deepening method already demonstrated (no outline or
+      structural changes needed; no further audit-driven craft fix
+      required).
   phase_6_editorial_package:
     status: "complete (provisional)"
     outputs:
@@ -164,7 +169,7 @@ chapters:
   - id: 12
     title: "Reciprocity"
     status: "revised (expanded)"
-    word_count_approx: 2121
+    word_count_approx: 2418
     structural_beat: "post-midpoint rising"
   - id: 13
     title: "Wyrmsign"
@@ -204,7 +209,7 @@ chapters:
   - id: 20
     title: "What Stays Open"
     status: "revised (expanded)"
-    word_count_approx: 2358
+    word_count_approx: 2774
     structural_beat: "Resolution (denouement)"
 
 decisions_log:
