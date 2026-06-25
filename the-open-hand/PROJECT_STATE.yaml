@@ -113,103 +113,103 @@ pipeline_status:
 chapters:
   - id: 1
     title: "A Perfectly Reasonable Amount of Feeling"
-    status: "revised (expanded)"
-    word_count_approx: 3950
+    status: "expanded (iteration 3)"
+    word_count_approx: 7760
     structural_beat: "Hook"
   - id: 2
     title: "The Lowmarket Fever"
-    status: "revised (expanded)"
-    word_count_approx: 2960
+    status: "expanded (iteration 3)"
+    word_count_approx: 6042
     structural_beat: "Hook -> rising"
   - id: 3
     title: "The Name Nobody Says at Council"
-    status: "revised (expanded)"
-    word_count_approx: 2990
+    status: "expanded (iteration 3)"
+    word_count_approx: 6277
     structural_beat: "Plot Turn 1 (approach)"
   - id: 4
     title: "What the Guild Won't Sign For"
-    status: "revised (expanded)"
-    word_count_approx: 2290
+    status: "expanded (iteration 3)"
+    word_count_approx: 4823
     structural_beat: "Plot Turn 1"
   - id: 5
     title: "Wickern & Daughters"
-    status: "revised (expanded)"
-    word_count_approx: 2730
+    status: "expanded (iteration 3)"
+    word_count_approx: 5556
     structural_beat: "rising"
   - id: 6
     title: "The Locked Cabinet"
-    status: "revised (expanded)"
-    word_count_approx: 1746
+    status: "expanded (iteration 3)"
+    word_count_approx: 3742
     structural_beat: "rising"
   - id: 7
     title: "A Theory With No Guild Behind It"
-    status: "revised (expanded)"
-    word_count_approx: 2059
+    status: "expanded (iteration 3)"
+    word_count_approx: 4092
     structural_beat: "rising"
   - id: 8
     title: "The House on the Quiet Ward"
-    status: "revised (expanded)"
-    word_count_approx: 2637
+    status: "expanded (iteration 3)"
+    word_count_approx: 4985
     structural_beat: "approach to Pinch 1"
   - id: 9
     title: "What It Costs to Hold Open a Person"
-    status: "revised (expanded)"
-    word_count_approx: 2181
+    status: "expanded (iteration 3)"
+    word_count_approx: 4085
     structural_beat: "Pinch 1 (Bleed event)"
   - id: 10
     title: "Recovery, As Such"
-    status: "revised (expanded)"
-    word_count_approx: 1972
+    status: "expanded (iteration 3)"
+    word_count_approx: 4034
     structural_beat: "post-Pinch 1 / midpoint approach"
   - id: 11
     title: "The Magistrate Who Used to Be Someone"
-    status: "revised (expanded)"
-    word_count_approx: 2405
+    status: "expanded (iteration 3)"
+    word_count_approx: 4708
     structural_beat: "Midpoint"
   - id: 12
     title: "Reciprocity"
-    status: "revised (expanded)"
-    word_count_approx: 2418
+    status: "expanded (iteration 3)"
+    word_count_approx: 4766
     structural_beat: "post-midpoint rising"
   - id: 13
     title: "Wyrmsign"
-    status: "revised (expanded)"
-    word_count_approx: 1936
+    status: "expanded (iteration 3)"
+    word_count_approx: 3939
     structural_beat: "rising"
   - id: 14
     title: "The Reform Faction"
-    status: "revised (expanded)"
-    word_count_approx: 1959
+    status: "expanded (iteration 3)"
+    word_count_approx: 3947
     structural_beat: "rising"
   - id: 15
     title: "Lowmarket, Again"
-    status: "revised (expanded)"
-    word_count_approx: 1311
+    status: "expanded (iteration 3)"
+    word_count_approx: 2698
     structural_beat: "approach to Pinch 2"
   - id: 16
     title: "Going Under"
-    status: "revised (expanded)"
-    word_count_approx: 2164
+    status: "expanded (iteration 3)"
+    word_count_approx: 4359
     structural_beat: "Pinch 2 (near-Dissolution)"
   - id: 17
     title: "The Offer"
-    status: "revised (expanded)"
-    word_count_approx: 1846
+    status: "expanded (iteration 3)"
+    word_count_approx: 4144
     structural_beat: "Pinch 2 aftermath / approach to Plot Turn 2"
   - id: 18
     title: "The Dependency"
-    status: "revised (expanded)"
-    word_count_approx: 2059
+    status: "expanded (iteration 3)"
+    word_count_approx: 3999
     structural_beat: "Plot Turn 2 (convergent hinge)"
   - id: 19
     title: "The Open Hand"
-    status: "revised (expanded)"
-    word_count_approx: 2505
+    status: "expanded (iteration 3)"
+    word_count_approx: 4969
     structural_beat: "Resolution (climax)"
   - id: 20
     title: "What Stays Open"
-    status: "revised (expanded)"
-    word_count_approx: 2774
+    status: "expanded (iteration 3)"
+    word_count_approx: 5855
     structural_beat: "Resolution (denouement)"
 
 decisions_log:
