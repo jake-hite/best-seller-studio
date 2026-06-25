@@ -1,0 +1,47 @@
+# Chapter Seventeen — The Offer
+
+Mari slept through the whole of the following day, properly, the kind of sleep that didn't flinch at footsteps or lower voices, and Wren sat with her for most of it doing nothing more demanding than watching her sister's chest rise and fall, grateful in a way that had no room left over for anything else.
+
+It was evening before Vesper found her again, in the Quiet House's small kitchen, nursing tea she'd long since let go cold.
+
+"I want to talk to you properly," Vesper said, sitting across from her without being invited, which Wren found she didn't mind nearly as much as she once would have. "Not about yesterday's crisis, which is past, for now. About tomorrow's, and the one after that, because yesterday is going to keep happening, on a shortening schedule, until something fundamental changes rather than something temporary improving."
+
+"I know," Wren said. "I've been doing the arithmetic all day, same as I did the first week. The buffer's better than it was, even refined, even seeded properly. It's still not a cure. It's a slower bridge to the same river."
+
+"There is a cure," Vesper said. "I want to tell you about it plainly, the way I've told you everything else, and I want you to hear the whole shape of it before you let yourself feel anything about it, because I think what I'm about to offer you is going to feel, the instant you understand it, like the easiest yes you've ever been asked to give, and I would rather you make that decision with your eyes fully open than out of relief."
+
+Wren set down the cold tea. "Tell me."
+
+"Your sister's Saturation isn't going to stop accelerating. Every honest measurement I've taken says the same thing your own arithmetic does. What she needs isn't another bought week. She needs a permanent open conduit — someone who can stand where you stood in that room yesterday, indefinitely, without it costing them a Bleed every single time, without the risk eventually killing the person doing the holding instead of the person being held." Vesper folded her hands on the table, the same composed, patient gesture Wren had noticed the very first afternoon. "I can teach you to be that person. Properly. Permanently. The way I am for the handful of people I've helped over the years. You would never have to fear a Bleed again. You could open toward her — toward anyone — fully, as often as it was needed, and the flood would simply never be able to drown you, because the part of you that drowning requires would no longer be reachable by anything but your own choosing."
+
+"You're talking about Severance."
+
+"I am. I want to say the word myself, plainly, rather than let you arrive at it and wonder if I was hoping you wouldn't notice." Vesper's voice did not change at all, which was, Wren thought distantly, either the most honest or the most practiced thing about her. "I am offering to sever the link between what you feel and what you're obligated to do about it, the same way it was done for me, twenty-six years ago, by someone who understood that the alternative — go on as you are, bleeding a little more of yourself into every rescue until eventually there isn't enough left to bleed — was not actually the safer choice it's always dressed up as."
+
+"And what does it cost," Wren said, "because everything in this world that opens a door also costs something to walk through, you taught me that yourself, in your own kitchen, two weeks ago."
+
+"It costs the part of you that experiences feeling as a debt," Vesper said. "Not the feeling itself — I want to be precise about this, because it is the single most common misunderstanding about what I do and I will not let you carry it. You will still feel everything, completely, in full resolution, the day after as much as the day before. What changes is the obligation underneath it — the part of you that hears your sister's exhaustion and experiences it as a demand you have no right to refuse. That part goes quiet. Not gone. Quiet. You decide, afterward, every single time, whether to act on what you feel, rather than being pulled along behind it the way a current pulls along anything that hasn't learned to stand apart from it." She held Wren's gaze, steady, unflinching. "I am not telling you this will cost nothing. I have told you from the very first afternoon that it cost me a great deal, and I meant it, and I will not pretend otherwise now simply because the offer is sincere. I am telling you it would let you save her, this time and every time after, without ever again sitting on a floor wondering whether your own legs would hold you. I think that is worth being honest about, even though I also think it is the most dangerous sentence I have said to you yet."
+
+Wren sat with it for a long moment, the kitchen's lamp throwing soft light over the table, the channel water audible through the floor the way it was audible everywhere in this house, patient and constant and entirely unbothered by anything happening above it.
+
+The terrible thing — the thing she made herself sit with fully rather than flinch away from, the way she'd promised herself weeks ago she would do with every hard fact from now on — was that it was tempting. Genuinely, completely tempting, in a way no strawman offer from a storybook villain had ever prepared her to recognize in her own chest. She thought of the floor of Mari's first sickroom, her own legs not holding her, the specific crushing weight of being the only thing standing between her sister and the part of herself trying gently to let go. She thought of yesterday, the formless static flood, the scale gone hot in her hands, Sela's voice saying *pull back, there isn't going to be a clean stopping point this time.* She thought of doing this again, and again, for years, every time Mari's clock ran down, every time some other patient nobody official would help needed exactly the kind of hands Wren had built — and never once again being afraid that the cost would be more than she had to spend.
+
+"I could keep doing this forever," she said slowly, "and never be afraid of it again."
+
+"Yes."
+
+"That's not a small thing to offer someone who's been afraid every single day for three weeks."
+
+"I know precisely how large a thing it is," Vesper said. "I have spent twenty-six years on the other side of having accepted it, and I have never once, not for a single day, regretted that I am no longer ruled by the fear the way I once was. I want you to hear that as the truth it is, and not assume I'm about to undercut it with some quiet confession of misery, because I won't. The cost was real and I would, faced with the same choice again tonight, make exactly the same one."
+
+It would have been easier, Wren thought, if Vesper had lied about that — if some crack of obvious regret had shown itself, some tell she could point to and say *there, that's the proof, that's why I'm going to say no.* Vesper gave her nothing of the kind. She simply sat, composed and warm and entirely sincere, offering the single most dangerous gift Wren had ever been handed with the plain, unhurried generosity of someone who genuinely believed it was the right thing to give.
+
+"I need to think," Wren said finally. "I want to be honest with you the way you've been honest with me. I'm not saying no. I'm not saying yes either. I think if I answered you right now, in this exact minute, sitting across from you with my sister finally asleep down the hall for the first time in days, I'd say yes, and I don't trust an answer that arrives that fast, about something that doesn't come with an undo."
+
+"That," Vesper said, with something that might almost have been pride, "is the single most sensible thing anyone has said to me in this conversation in twenty-six years of having it with other people. Take however long you need. I am not going anywhere, and your sister has, by my own honest measurement, slightly more time than she did yesterday, if not very much more. I would rather you arrive at the right answer slowly than the easy one quickly."
+
+She rose to go, then paused at the kitchen doorway, and for one unguarded moment something crossed her face that Wren hadn't seen there before — not the warmth, not the composure, something underneath both of those things, old and tired and, for just a second, almost afraid.
+
+"For what it's worth," Vesper said, "I would like you to say yes. I want to be honest about that too, since I've asked you to be honest with me about everything else. I think you would be extraordinary at this, more naturally suited to it than I was at your age, and I think I am, in some part of myself I don't examine as often as I should, tired of doing this alone. But I would rather you say no, fully understanding what you'd be refusing, than say yes because you were too exhausted tonight to imagine any other way through tomorrow. That part is not a kindness I am extending to you. It is simply the only kind of yes I have ever found worth having."
+
+She left, and Wren sat alone in the small kitchen for a long time afterward, the cold tea forgotten, turning the offer over the way she'd turn over a proof with no obvious flaw — testing it from every angle she knew how to test anything from, and finding, unsettlingly, that the flaw she was looking for refused, for the moment, to show itself at all.
