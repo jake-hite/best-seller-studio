@@ -34,9 +34,10 @@ pipeline_status:
       - "manuscript/chapters"
     note: >
       Full 20-chapter outline exists in artifacts/05-outline.md. Chapters
-      1-9 are drafted prose (Movements I and II complete, through Pinch 1).
-      Chapters 10-20 are outlined but NOT yet drafted. This is tracked
-      progress, not an oversight.
+      1-16 are drafted prose (Movements I, II, and III complete, through
+      Pinch 2 / near-Dissolution). Chapters 17-20 (Movement IV) are
+      outlined but NOT yet drafted. This is tracked progress, not an
+      oversight.
   phase_4_adversarial_audit:
     status: "not_started"
     note: "Cannot run honestly until full manuscript exists. Skipped, not failed."
@@ -94,31 +95,38 @@ chapters:
     structural_beat: "Pinch 1 (Bleed event)"
   - id: 10
     title: "Recovery, As Such"
-    status: "outline_only"
+    status: "drafted"
+    word_count_approx: 1713
     structural_beat: "post-Pinch 1 / midpoint approach"
   - id: 11
     title: "The Magistrate Who Used to Be Someone"
-    status: "outline_only"
+    status: "drafted"
+    word_count_approx: 2007
     structural_beat: "Midpoint"
   - id: 12
     title: "Reciprocity"
-    status: "outline_only"
+    status: "drafted"
+    word_count_approx: 1764
     structural_beat: "post-midpoint rising"
   - id: 13
     title: "Wyrmsign"
-    status: "outline_only"
+    status: "drafted"
+    word_count_approx: 1577
     structural_beat: "rising"
   - id: 14
     title: "The Reform Faction"
-    status: "outline_only"
+    status: "drafted"
+    word_count_approx: 1607
     structural_beat: "rising"
   - id: 15
     title: "Lowmarket, Again"
-    status: "outline_only"
+    status: "drafted"
+    word_count_approx: 1137
     structural_beat: "approach to Pinch 2"
   - id: 16
     title: "Going Under"
-    status: "outline_only"
+    status: "drafted"
+    word_count_approx: 1578
     structural_beat: "Pinch 2 (near-Dissolution)"
   - id: 17
     title: "The Offer"
