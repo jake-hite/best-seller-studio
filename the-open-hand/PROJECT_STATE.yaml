@@ -91,14 +91,19 @@ pipeline_status:
       work overlaps with items above). None of these require outline
       or structural changes.
   phase_6_editorial_package:
-    status: "not_started"
+    status: "complete (provisional)"
+    outputs:
+      - "artifacts/10-editorial-package.md"
     note: >
-      Deliberately not started. The phase's own goal statement presumes
-      an approved manuscript ("turn the approved manuscript into a
-      sales-ready editorial package"), and Phase 5 explicitly did not
-      approve this draft. Per genesis-score-codex.md's own guidance,
-      do not treat Phase 6 as a final sales-ready deliverable until a
-      re-score clears the approval gate.
+      Produced despite non-approval so the team has a working pitch
+      document to see, explicitly labeled PROVISIONAL / PRE-REVISION at
+      the top of the file. The package itself names its own blocking
+      issues (climax has no complication; word count is ~34,400 against
+      a 100K target; voice-differentiation is unresolved) and its query
+      strategy section explicitly says "do not query yet." This should
+      not be sent externally (agents/editors/readers) until the Phase 5
+      required interventions are actioned and the manuscript is
+      re-scored above the approval gate.
 
 chapters:
   - id: 1
