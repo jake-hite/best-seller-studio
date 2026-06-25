@@ -48,13 +48,34 @@ pipeline_status:
       the pipeline rule that audit requires a full manuscript, not a
       full-length one.
   phase_4_adversarial_audit:
-    status: "not_started"
+    status: "complete"
+    outputs:
+      - "artifacts/08-adversarial-audit.md"
+    verdict: "MAJOR REWRITE"
     note: >
-      Full manuscript now exists (20/20 chapters drafted) so this phase
-      is unblocked. Not yet run.
+      All 7 passes run against the full 20-chapter draft. Passes 1
+      (Existence), 3 (Over-Explanation), and 7 (Agent Pitch) are
+      largely sound. Passes 2 (Voice Differentiation), 4 (Human Mess),
+      5 (Failure Audit), and 6 (Structural Repetition) fail, escalating
+      the verdict to MAJOR REWRITE per the pipeline's own multi-fail
+      escalation rule. The most severe findings: every character
+      (including an 11-year-old) shares one rhetorical register; the
+      Ch.19 climax succeeds with no complication, inconsistent with
+      the book's own established cost-for-success pattern; and the
+      brief's dorky/uncool comic register disappears entirely after
+      Ch.13. Explicitly does NOT require outline/structural changes --
+      structure (Pass 1) passed cleanly. Five bounded interventions are
+      listed in the audit (voice pass, de-duplicate repeated phrasing,
+      restore comic register in >=2 late beats, add jeopardy to Ch.19
+      and a real setback to the Cae subplot, expand Bram's relationship
+      into a dramatized scene). Not yet actioned.
   phase_5_final_score:
     status: "not_started"
-    note: "Blocked on Phase 4 per pipeline rule: never score before audit."
+    note: >
+      Unblocked (Phase 4 complete) but expected to record a provisional,
+      non-approved score per the gate rule: "If the adversarial audit
+      concludes MAJOR REWRITE, the score may be recorded provisionally
+      but the manuscript is not eligible for approval."
   phase_6_editorial_package:
     status: "not_started"
 
