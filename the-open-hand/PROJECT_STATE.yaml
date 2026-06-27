@@ -75,12 +75,16 @@ pipeline_status:
       iteration at zero, and for the first time, zero open items in any
       tier, including the previously-carried low-priority Pacing notes.
   phase_5_final_score:
-    status: "complete (re-scored, iteration 7)"
+    status: "complete (re-scored, iteration 7; gate closed by project-owner override)"
     outputs:
       - "artifacts/09-genesis-score-codex.md"
     floor_score: 8.8
     weighted_average: 8.97
-    gate_verdict: "NOT APPROVED (real score; Weighted Average short of 9.0 by 0.03)"
+    gate_verdict: >
+      NOT APPROVED on the formal scoring contract (Weighted Average 8.97,
+      short of the required 9.0 by 0.03) -- gate manually closed on
+      2026-06-27 via explicit project-owner override. The score itself was
+      not changed or rounded up; see note below and decisions_log.
     note: >
       Real, non-provisional score (Phase 4 re-audit does not conclude
       MAJOR REWRITE). Score history: iteration 4 (Floor 8.6, WA 8.82,
@@ -109,9 +113,16 @@ pipeline_status:
       arithmetic across ten already-strong dimensions rather than to any
       identifiable flaw, and recommends that any further attempt expect
       a small, distributed, uncertain yield (broad polish across several
-      near-ceiling dimensions) rather than a single targeted fix.
+      near-ceiling dimensions) rather than a single targeted fix. On
+      2026-06-27 the project owner reviewed this result and decided to
+      close the approval gate and treat iteration 7 as final rather than
+      continue chasing the 0.03, given the zero-remaining-defects finding
+      above and the diminishing, uncertain return on further iteration.
+      This is an explicit override of the formal gate_verdict, not a
+      recalculation of it -- the Weighted Average remains 8.97 in the
+      scoring record.
   phase_6_editorial_package:
-    status: "complete (provisional, updated for iteration 7)"
+    status: "complete (cleared for use via editorial override, iteration 7)"
     outputs:
       - "artifacts/10-editorial-package.md"
     note: >
@@ -120,12 +131,16 @@ pipeline_status:
       true, including the previously-open low-priority Pacing notes),
       96,746 words (verified by direct word count), Floor 8.8 (clears
       gate), Weighted Average 8.97 (0.03 short of the 9.0 gate, the
-      smallest gap recorded across seven iterations). Still labeled
-      PROVISIONAL / PRE-APPROVAL at the top of the file, and its query
-      strategy section still says "do not query yet," since the
-      manuscript has not yet cleared the approval gate. Should not be
-      sent externally (agents/editors/readers) until the Weighted
-      Average clears 9.0 on a future re-score.
+      smallest gap recorded across seven iterations). On 2026-06-27 the
+      project owner closed the approval gate via override (see
+      phase_5_final_score and decisions_log) and instructed that the
+      package be treated as cleared for use despite the unmet 0.03. The
+      file's top banner and Query Strategy section have been updated
+      accordingly: no longer labeled PROVISIONAL / PRE-APPROVAL, and the
+      query strategy is now presented as a current go-ahead rather than a
+      future contingency. The file is transparent throughout that the
+      formal Weighted Average gate was not mathematically cleared --
+      only manually closed.
 
 chapters:
   - id: 1
@@ -234,3 +249,4 @@ decisions_log:
   - "Protagonist is a Material-opener, not a Person-opener, per character-types.md's least-burdened/gender-mixed specialization."
   - "Antagonist (Vesper Reed) built on the Broken Healer route per character-types.md and antagonist.md's sympathetic-villain mandate."
   - "Title selected: The Open Hand."
+  - "2026-06-27: project owner closed the Genesis Score approval gate via explicit override, accepting Iteration 7 as final despite the Weighted Average (8.97) falling 0.03 short of the formal 9.0 threshold. Rationale: the Iteration 7 adversarial audit found zero open required-fix items in any tier (the first iteration where this is true, including the previously-deprioritized Pacing softness notes), the gap is the narrowest recorded across seven iterations, and the audit's own assessment is that closing it further would require broad, low-confidence polish rather than a targeted fix. The formal score (Floor 8.8, WA 8.97, NOT APPROVED) was not altered or rounded up -- this is a manual override of the gate decision, not a change to the scoring record. See phase_5_final_score and phase_6_editorial_package."
