@@ -44,7 +44,7 @@ In the climax (Ch.19), Wren refuses both the buffer (too cautious) and Severance
 
 **Current state**: ~96,700 words (96,746, verified by direct word count) across 20 chapters (avg. ~4,840 words/chapter), up from ~34,400 in the original draft and ~46,900 after the first revision pass. This is within normal range for standard adult-fantasy novel length (typically 90,000–120,000 words) and close to the project's own 100,000-word target. Length is no longer an open editorial risk.
 
-**Ebook readiness**: chapter structure (20 numbered chapters with titles) is clean and TOC-ready as-is; no front/back matter (title page, dedication, author bio) has been drafted yet and will be needed before ebook packaging.
+**Ebook readiness**: chapter structure (20 numbered chapters with titles) is clean and TOC-ready as-is. Front matter (title page, dedication) is now drafted at `manuscript/front-matter.md`. Back matter (`manuscript/back-matter.md`) contains an "About the Author" section left as an explicit fill-in slot, pending bio details only the author can supply; this is the one remaining item before ebook packaging.
 
 **Print readiness**: at current length the manuscript would produce a print volume consistent with adult secondary-world fantasy shelving conventions; no length-driven print concern remains.
 

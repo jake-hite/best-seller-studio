@@ -140,7 +140,24 @@ pipeline_status:
       query strategy is now presented as a current go-ahead rather than a
       future contingency. The file is transparent throughout that the
       formal Weighted Average gate was not mathematically cleared --
-      only manually closed.
+      only manually closed. Front matter (title page, dedication) is now
+      drafted at manuscript/front-matter.md; back matter
+      (manuscript/back-matter.md) contains an "About the Author" section
+      left as an explicit fill-in slot pending bio details from the
+      author -- the one remaining item before ebook packaging.
+  front_back_matter:
+    status: "front matter complete; back matter pending author bio"
+    outputs:
+      - "manuscript/front-matter.md"
+      - "manuscript/back-matter.md"
+    note: >
+      Drafted 2026-06-27 per project-owner request. Front matter (title
+      page, byline, dedication) is complete and ready for use; the byline
+      is inferred from project records (jake-hite) and is a one-line swap
+      if a pen name is preferred. Back matter intentionally left as a
+      fill-in slot: an "About the Author" section with placeholder
+      guidance text rather than a fabricated bio, since bio content
+      requires real details only the author can supply.
 
 chapters:
   - id: 1
